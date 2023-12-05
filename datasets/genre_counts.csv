@@ -1,0 +1,1050 @@
+,genres,genre_counts,year,is_latin
+0,alt z,6,2018,nonlatin
+1,art pop,4,2018,nonlatin
+2,atl hip hop,2,2018,nonlatin
+3,atl trap,1,2018,nonlatin
+4,australian dance,1,2018,nonlatin
+5,australian pop,2,2018,nonlatin
+6,banda,1,2018,latin
+7,boy band,7,2018,nonlatin
+8,british soul,2,2018,nonlatin
+9,brostep,1,2018,nonlatin
+10,canadian contemporary r&b,1,2018,nonlatin
+11,canadian pop,10,2018,nonlatin
+12,contemporary country,4,2018,nonlatin
+13,contemporary r&b,1,2018,nonlatin
+14,corrido,1,2018,latin
+15,country,4,2018,nonlatin
+16,country pop,2,2018,nonlatin
+17,country road,3,2018,nonlatin
+18,cumbia sonorense,1,2018,latin
+19,dance pop,16,2018,nonlatin
+20,dance rock,1,2018,nonlatin
+21,dark r&b,2,2018,nonlatin
+22,edm,3,2018,nonlatin
+23,funk pop,1,2018,nonlatin
+24,funk rj,1,2018,nonlatin
+25,gangster rap,1,2018,nonlatin
+26,girl group,1,2018,nonlatin
+27,hollywood,1,2018,nonlatin
+28,indie anthem-folk,1,2018,latin
+29,latin pop,1,2018,latin
+30,melodic rap,2,2018,nonlatin
+31,metropopolis,1,2018,nonlatin
+32,modern alternative rock,2,2018,nonlatin
+33,modern country rock,3,2018,nonlatin
+34,modern rock,4,2018,nonlatin
+35,movie tunes,1,2018,nonlatin
+36,musica costena,1,2018,latin
+37,musica mexicana,2,2018,latin
+38,musica potosina,1,2018,latin
+39,neo mellow,1,2018,nonlatin
+40,new jack swing,1,2018,nonlatin
+41,none,4,2018,unknown
+42,norteno,2,2018,latin
+43,norteno-sax,1,2018,latin
+44,nz pop,1,2018,nonlatin
+45,pagode baiano,1,2018,latin
+46,pop,83,2018,nonlatin
+47,pop dance,2,2018,nonlatin
+48,pop nacional,1,2018,latin
+49,pop r&b,4,2018,nonlatin
+50,pop rock,1,2018,nonlatin
+51,pop soul,2,2018,nonlatin
+52,pop worship,1,2018,nonlatin
+53,post-teen pop,10,2018,nonlatin
+54,progressive electro house,3,2018,nonlatin
+55,puerto rican pop,1,2018,latin
+56,r&b,2,2018,nonlatin
+57,rap,3,2018,nonlatin
+58,rebel blues,1,2018,nonlatin
+59,sierreno,1,2018,latin
+60,singer-songwriter pop,2,2018,nonlatin
+61,social media pop,3,2018,nonlatin
+62,talent show,4,2018,nonlatin
+63,teen pop,1,2018,nonlatin
+64,tejano,1,2018,latin
+65,trap,2,2018,nonlatin
+66,uk pop,12,2018,nonlatin
+67,urban contemporary,1,2018,nonlatin
+68,viral pop,14,2018,nonlatin
+69,worship,1,2018,nonlatin
+70,pop,0,2018,nonlatin
+71,dance pop,0,2018,nonlatin
+72,edm,0,2018,nonlatin
+73,pop dance,0,2018,nonlatin
+74,progressive electro house,0,2018,nonlatin
+75,contemporary country,0,2018,nonlatin
+76,country,0,2018,nonlatin
+77,country pop,0,2018,nonlatin
+78,country road,0,2018,nonlatin
+79,modern country rock,0,2018,nonlatin
+80,modern alternative rock,0,2018,nonlatin
+81,uk pop,0,2018,nonlatin
+82,boy band,0,2018,nonlatin
+83,canadian pop,0,2018,nonlatin
+84,viral pop,0,2018,nonlatin
+85,alt z,0,2018,nonlatin
+86,contemporary r&b,0,2018,nonlatin
+87,new jack swing,0,2018,nonlatin
+88,r&b,0,2018,nonlatin
+89,urban contemporary,0,2018,nonlatin
+90,social media pop,0,2018,nonlatin
+91,art pop,0,2018,nonlatin
+92,pop r&b,0,2018,nonlatin
+93,post-teen pop,0,2018,nonlatin
+94,modern rock,0,2018,nonlatin
+95,rap,0,2018,nonlatin
+96,talent show,0,2018,nonlatin
+97,metropopolis,0,2018,nonlatin
+98,nz pop,0,2018,nonlatin
+99,british soul,0,2018,nonlatin
+100,pop soul,0,2018,nonlatin
+101,singer-songwriter pop,0,2018,nonlatin
+102,atl hip hop,0,2018,nonlatin
+103,atl trap,0,2018,nonlatin
+104,gangster rap,0,2018,nonlatin
+105,melodic rap,0,2018,nonlatin
+106,trap,0,2018,nonlatin
+107,hollywood,0,2018,nonlatin
+108,movie tunes,0,2018,nonlatin
+109,indie anthem-folk,0,2018,latin
+110,dance rock,0,2018,nonlatin
+111,neo mellow,0,2018,nonlatin
+112,pop rock,0,2018,nonlatin
+113,brostep,0,2018,nonlatin
+114,latin pop,0,2018,latin
+115,puerto rican pop,0,2018,latin
+116,australian dance,0,2018,nonlatin
+117,australian pop,0,2018,nonlatin
+118,corrido,0,2018,latin
+119,musica mexicana,0,2018,latin
+120,musica potosina,0,2018,latin
+121,norteno,0,2018,latin
+122,norteno-sax,0,2018,latin
+123,sierreno,0,2018,latin
+124,banda,0,2018,latin
+125,cumbia sonorense,0,2018,latin
+126,musica costena,0,2018,latin
+127,tejano,0,2018,latin
+128,dark r&b,0,2018,nonlatin
+129,rebel blues,0,2018,nonlatin
+130,teen pop,0,2018,nonlatin
+131,none,0,2018,unknown
+132,canadian contemporary r&b,0,2018,nonlatin
+133,girl group,0,2018,nonlatin
+134,funk pop,0,2018,nonlatin
+135,funk rj,0,2018,nonlatin
+136,pagode baiano,0,2018,latin
+137,pop nacional,0,2018,latin
+138,pop worship,0,2018,nonlatin
+139,worship,0,2018,nonlatin
+140,electropop,0,2018,nonlatin
+141,etherpop,0,2018,nonlatin
+142,indie poptimism,0,2018,nonlatin
+143,bergen indie,0,2018,nonlatin
+144,gauze pop,0,2018,nonlatin
+145,bedroom soul,0,2018,nonlatin
+146,scandipop,0,2018,nonlatin
+147,chicago rap,0,2018,nonlatin
+148,alternative r&b,0,2018,nonlatin
+149,ccm,0,2018,nonlatin
+150,christian alternative rock,0,2018,nonlatin
+151,christian music,0,2018,nonlatin
+152,show tunes,0,2018,nonlatin
+153,pov: indie,0,2018,nonlatin
+154,canadian rock,0,2018,nonlatin
+155,british singer-songwriter,0,2018,nonlatin
+156,deep talent show,0,2018,nonlatin
+157,house,0,2018,nonlatin
+158,indietronica,0,2018,latin
+159,uk dance,0,2018,nonlatin
+160,album rock,0,2018,nonlatin
+161,classic rock,0,2018,nonlatin
+162,hard rock,0,2018,nonlatin
+163,mellow gold,0,2018,nonlatin
+164,rock,0,2018,nonlatin
+165,soft rock,0,2018,nonlatin
+166,yacht rock,0,2018,nonlatin
+167,acoustic pop,0,2018,nonlatin
+168,australian alternative pop,0,2018,nonlatin
+169,norwegian pop,0,2018,nonlatin
+170,colombian pop,0,2018,latin
+171,banda sinaloense,0,2018,latin
+172,duranguense,0,2018,latin
+173,grupera,0,2018,latin
+174,sad sierreno,0,2018,latin
+175,mexican pop,0,2018,latin
+176,rock en espanol,0,2018,latin
+177,ranchera,0,2018,latin
+178,latin arena pop,0,2018,latin
+179,reggaeton,0,2018,latin
+180,urbano latino,0,2018,latin
+181,spanish pop,0,2018,latin
+182,latin viral pop,0,2018,latin
+183,reggaeton colombiano,0,2018,latin
+184,trap latino,0,2018,latin
+185,cantautora mexicana,0,2018,latin
+186,latin alternative,0,2018,latin
+187,mexican rock,0,2018,latin
+188,bachata,0,2018,latin
+189,bachata dominicana,0,2018,latin
+190,tropical,0,2018,nonlatin
+191,uk contemporary r&b,0,2018,nonlatin
+192,mariachi,0,2018,latin
+193,latin talent show,0,2018,latin
+194,reggaeton flow,0,2018,latin
+195,latin hip hop,0,2018,latin
+196,trap colombiano,0,2018,latin
+197,rap latina,0,2018,latin
+198,dembow,0,2018,nonlatin
+199,rap dominicano,0,2018,latin
+200,cumbia pop,0,2018,latin
+201,trap argentino,0,2018,latin
+202,pop venezolano,0,2018,latin
+203,pop argentino,0,2018,latin
+204,panamanian pop,0,2018,latin
+205,pop reggaeton,0,2018,latin
+206,bedroom pop,0,2018,nonlatin
+207,cumbia peruana,0,2018,latin
+208,hip pop,0,2018,nonlatin
+209,queens hip hop,0,2018,nonlatin
+210,latin rock,0,2018,latin
+211,funk carioca,0,2018,latin
+212,funk das antigas,0,2018,latin
+213,funk ostentacao,0,2018,nonlatin
+214,sertanejo universitario,0,2018,latin
+215,vallenato,0,2018,latin
+216,argentine hip hop,0,2018,latin
+217,rap canario,0,2018,latin
+218,r&b en espanol,0,2018,latin
+219,peruvian indie,0,2018,latin
+220,concurso de talentos argentino,0,2018,latin
+221,urbano mexicano,0,2018,latin
+222,cumbia,0,2018,latin
+223,pop electronico,0,2018,latin
+224,tropical alternativo,0,2018,latin
+225,latintronica,0,2018,latin
+226,puerto rican indie,0,2018,latin
+227,acoustic pop,1,2019,nonlatin
+228,album rock,1,2019,nonlatin
+229,alt z,11,2019,nonlatin
+230,alternative r&b,1,2019,nonlatin
+231,art pop,8,2019,nonlatin
+232,australian pop,5,2019,nonlatin
+233,bedroom soul,1,2019,nonlatin
+234,bergen indie,1,2019,nonlatin
+235,boy band,7,2019,nonlatin
+236,british singer-songwriter,1,2019,nonlatin
+237,canadian contemporary r&b,2,2019,nonlatin
+238,canadian pop,13,2019,nonlatin
+239,canadian rock,1,2019,nonlatin
+240,ccm,1,2019,nonlatin
+241,chicago rap,1,2019,nonlatin
+242,christian alternative rock,1,2019,nonlatin
+243,christian music,1,2019,nonlatin
+244,classic rock,1,2019,nonlatin
+245,contemporary r&b,1,2019,nonlatin
+246,dance pop,8,2019,nonlatin
+247,deep talent show,1,2019,nonlatin
+248,edm,1,2019,nonlatin
+249,electropop,9,2019,nonlatin
+250,etherpop,1,2019,nonlatin
+251,gauze pop,1,2019,nonlatin
+252,hard rock,1,2019,nonlatin
+253,hollywood,4,2019,nonlatin
+254,house,1,2019,nonlatin
+255,indie poptimism,1,2019,nonlatin
+256,indietronica,1,2019,latin
+257,mellow gold,1,2019,nonlatin
+258,melodic rap,1,2019,nonlatin
+259,modern rock,4,2019,nonlatin
+260,movie tunes,3,2019,nonlatin
+261,neo mellow,1,2019,nonlatin
+262,new jack swing,1,2019,nonlatin
+263,none,1,2019,unknown
+264,nz pop,1,2019,nonlatin
+265,pop,79,2019,nonlatin
+266,pop dance,1,2019,nonlatin
+267,pop r&b,2,2019,nonlatin
+268,pop rock,1,2019,nonlatin
+269,post-teen pop,8,2019,nonlatin
+270,pov: indie,2,2019,nonlatin
+271,r&b,3,2019,nonlatin
+272,rap,4,2019,nonlatin
+273,rock,1,2019,nonlatin
+274,scandipop,1,2019,nonlatin
+275,show tunes,1,2019,nonlatin
+276,singer-songwriter pop,1,2019,nonlatin
+277,social media pop,1,2019,nonlatin
+278,soft rock,1,2019,nonlatin
+279,talent show,3,2019,nonlatin
+280,teen pop,5,2019,nonlatin
+281,uk dance,1,2019,nonlatin
+282,uk pop,13,2019,nonlatin
+283,urban contemporary,1,2019,nonlatin
+284,viral pop,11,2019,nonlatin
+285,yacht rock,1,2019,nonlatin
+286,pop,0,2019,nonlatin
+287,dance pop,0,2019,nonlatin
+288,edm,0,2019,nonlatin
+289,pop dance,0,2019,nonlatin
+290,progressive electro house,0,2019,nonlatin
+291,contemporary country,0,2019,nonlatin
+292,country,0,2019,nonlatin
+293,country pop,0,2019,nonlatin
+294,country road,0,2019,nonlatin
+295,modern country rock,0,2019,nonlatin
+296,modern alternative rock,0,2019,nonlatin
+297,uk pop,0,2019,nonlatin
+298,boy band,0,2019,nonlatin
+299,canadian pop,0,2019,nonlatin
+300,viral pop,0,2019,nonlatin
+301,alt z,0,2019,nonlatin
+302,contemporary r&b,0,2019,nonlatin
+303,new jack swing,0,2019,nonlatin
+304,r&b,0,2019,nonlatin
+305,urban contemporary,0,2019,nonlatin
+306,social media pop,0,2019,nonlatin
+307,art pop,0,2019,nonlatin
+308,pop r&b,0,2019,nonlatin
+309,post-teen pop,0,2019,nonlatin
+310,modern rock,0,2019,nonlatin
+311,rap,0,2019,nonlatin
+312,talent show,0,2019,nonlatin
+313,metropopolis,0,2019,nonlatin
+314,nz pop,0,2019,nonlatin
+315,british soul,0,2019,nonlatin
+316,pop soul,0,2019,nonlatin
+317,singer-songwriter pop,0,2019,nonlatin
+318,atl hip hop,0,2019,nonlatin
+319,atl trap,0,2019,nonlatin
+320,gangster rap,0,2019,nonlatin
+321,melodic rap,0,2019,nonlatin
+322,trap,0,2019,nonlatin
+323,hollywood,0,2019,nonlatin
+324,movie tunes,0,2019,nonlatin
+325,indie anthem-folk,0,2019,latin
+326,dance rock,0,2019,nonlatin
+327,neo mellow,0,2019,nonlatin
+328,pop rock,0,2019,nonlatin
+329,brostep,0,2019,nonlatin
+330,latin pop,0,2019,latin
+331,puerto rican pop,0,2019,latin
+332,australian dance,0,2019,nonlatin
+333,australian pop,0,2019,nonlatin
+334,corrido,0,2019,latin
+335,musica mexicana,0,2019,latin
+336,musica potosina,0,2019,latin
+337,norteno,0,2019,latin
+338,norteno-sax,0,2019,latin
+339,sierreno,0,2019,latin
+340,banda,0,2019,latin
+341,cumbia sonorense,0,2019,latin
+342,musica costena,0,2019,latin
+343,tejano,0,2019,latin
+344,dark r&b,0,2019,nonlatin
+345,rebel blues,0,2019,nonlatin
+346,teen pop,0,2019,nonlatin
+347,none,0,2019,unknown
+348,canadian contemporary r&b,0,2019,nonlatin
+349,girl group,0,2019,nonlatin
+350,funk pop,0,2019,nonlatin
+351,funk rj,0,2019,nonlatin
+352,pagode baiano,0,2019,latin
+353,pop nacional,0,2019,latin
+354,pop worship,0,2019,nonlatin
+355,worship,0,2019,nonlatin
+356,electropop,0,2019,nonlatin
+357,etherpop,0,2019,nonlatin
+358,indie poptimism,0,2019,nonlatin
+359,bergen indie,0,2019,nonlatin
+360,gauze pop,0,2019,nonlatin
+361,bedroom soul,0,2019,nonlatin
+362,scandipop,0,2019,nonlatin
+363,chicago rap,0,2019,nonlatin
+364,alternative r&b,0,2019,nonlatin
+365,ccm,0,2019,nonlatin
+366,christian alternative rock,0,2019,nonlatin
+367,christian music,0,2019,nonlatin
+368,show tunes,0,2019,nonlatin
+369,pov: indie,0,2019,nonlatin
+370,canadian rock,0,2019,nonlatin
+371,british singer-songwriter,0,2019,nonlatin
+372,deep talent show,0,2019,nonlatin
+373,house,0,2019,nonlatin
+374,indietronica,0,2019,latin
+375,uk dance,0,2019,nonlatin
+376,album rock,0,2019,nonlatin
+377,classic rock,0,2019,nonlatin
+378,hard rock,0,2019,nonlatin
+379,mellow gold,0,2019,nonlatin
+380,rock,0,2019,nonlatin
+381,soft rock,0,2019,nonlatin
+382,yacht rock,0,2019,nonlatin
+383,acoustic pop,0,2019,nonlatin
+384,australian alternative pop,0,2019,nonlatin
+385,norwegian pop,0,2019,nonlatin
+386,colombian pop,0,2019,latin
+387,banda sinaloense,0,2019,latin
+388,duranguense,0,2019,latin
+389,grupera,0,2019,latin
+390,sad sierreno,0,2019,latin
+391,mexican pop,0,2019,latin
+392,rock en espanol,0,2019,latin
+393,ranchera,0,2019,latin
+394,latin arena pop,0,2019,latin
+395,reggaeton,0,2019,latin
+396,urbano latino,0,2019,latin
+397,spanish pop,0,2019,latin
+398,latin viral pop,0,2019,latin
+399,reggaeton colombiano,0,2019,latin
+400,trap latino,0,2019,latin
+401,cantautora mexicana,0,2019,latin
+402,latin alternative,0,2019,latin
+403,mexican rock,0,2019,latin
+404,bachata,0,2019,latin
+405,bachata dominicana,0,2019,latin
+406,tropical,0,2019,nonlatin
+407,uk contemporary r&b,0,2019,nonlatin
+408,mariachi,0,2019,latin
+409,latin talent show,0,2019,latin
+410,reggaeton flow,0,2019,latin
+411,latin hip hop,0,2019,latin
+412,trap colombiano,0,2019,latin
+413,rap latina,0,2019,latin
+414,dembow,0,2019,nonlatin
+415,rap dominicano,0,2019,latin
+416,cumbia pop,0,2019,latin
+417,trap argentino,0,2019,latin
+418,pop venezolano,0,2019,latin
+419,pop argentino,0,2019,latin
+420,panamanian pop,0,2019,latin
+421,pop reggaeton,0,2019,latin
+422,bedroom pop,0,2019,nonlatin
+423,cumbia peruana,0,2019,latin
+424,hip pop,0,2019,nonlatin
+425,queens hip hop,0,2019,nonlatin
+426,latin rock,0,2019,latin
+427,funk carioca,0,2019,latin
+428,funk das antigas,0,2019,latin
+429,funk ostentacao,0,2019,nonlatin
+430,sertanejo universitario,0,2019,latin
+431,vallenato,0,2019,latin
+432,argentine hip hop,0,2019,latin
+433,rap canario,0,2019,latin
+434,r&b en espanol,0,2019,latin
+435,peruvian indie,0,2019,latin
+436,concurso de talentos argentino,0,2019,latin
+437,urbano mexicano,0,2019,latin
+438,cumbia,0,2019,latin
+439,pop electronico,0,2019,latin
+440,tropical alternativo,0,2019,latin
+441,latintronica,0,2019,latin
+442,puerto rican indie,0,2019,latin
+443,acoustic pop,1,2020,nonlatin
+444,alt z,19,2020,nonlatin
+445,australian alternative pop,10,2020,nonlatin
+446,banda,12,2020,latin
+447,banda sinaloense,4,2020,latin
+448,canadian contemporary r&b,6,2020,nonlatin
+449,canadian pop,2,2020,nonlatin
+450,colombian pop,2,2020,latin
+451,duranguense,2,2020,latin
+452,electropop,8,2020,nonlatin
+453,grupera,1,2020,latin
+454,indie anthem-folk,1,2020,latin
+455,latin pop,1,2020,latin
+456,mexican pop,1,2020,latin
+457,musica mexicana,14,2020,latin
+458,neo mellow,1,2020,nonlatin
+459,none,1,2020,unknown
+460,norteno,13,2020,latin
+461,norwegian pop,1,2020,nonlatin
+462,pop,64,2020,nonlatin
+463,pov: indie,1,2020,nonlatin
+464,ranchera,1,2020,latin
+465,rock en espanol,1,2020,latin
+466,sad sierreno,1,2020,latin
+467,singer-songwriter pop,11,2020,nonlatin
+468,uk pop,42,2020,nonlatin
+469,pop,0,2020,nonlatin
+470,dance pop,0,2020,nonlatin
+471,edm,0,2020,nonlatin
+472,pop dance,0,2020,nonlatin
+473,progressive electro house,0,2020,nonlatin
+474,contemporary country,0,2020,nonlatin
+475,country,0,2020,nonlatin
+476,country pop,0,2020,nonlatin
+477,country road,0,2020,nonlatin
+478,modern country rock,0,2020,nonlatin
+479,modern alternative rock,0,2020,nonlatin
+480,uk pop,0,2020,nonlatin
+481,boy band,0,2020,nonlatin
+482,canadian pop,0,2020,nonlatin
+483,viral pop,0,2020,nonlatin
+484,alt z,0,2020,nonlatin
+485,contemporary r&b,0,2020,nonlatin
+486,new jack swing,0,2020,nonlatin
+487,r&b,0,2020,nonlatin
+488,urban contemporary,0,2020,nonlatin
+489,social media pop,0,2020,nonlatin
+490,art pop,0,2020,nonlatin
+491,pop r&b,0,2020,nonlatin
+492,post-teen pop,0,2020,nonlatin
+493,modern rock,0,2020,nonlatin
+494,rap,0,2020,nonlatin
+495,talent show,0,2020,nonlatin
+496,metropopolis,0,2020,nonlatin
+497,nz pop,0,2020,nonlatin
+498,british soul,0,2020,nonlatin
+499,pop soul,0,2020,nonlatin
+500,singer-songwriter pop,0,2020,nonlatin
+501,atl hip hop,0,2020,nonlatin
+502,atl trap,0,2020,nonlatin
+503,gangster rap,0,2020,nonlatin
+504,melodic rap,0,2020,nonlatin
+505,trap,0,2020,nonlatin
+506,hollywood,0,2020,nonlatin
+507,movie tunes,0,2020,nonlatin
+508,indie anthem-folk,0,2020,latin
+509,dance rock,0,2020,nonlatin
+510,neo mellow,0,2020,nonlatin
+511,pop rock,0,2020,nonlatin
+512,brostep,0,2020,nonlatin
+513,latin pop,0,2020,latin
+514,puerto rican pop,0,2020,latin
+515,australian dance,0,2020,nonlatin
+516,australian pop,0,2020,nonlatin
+517,corrido,0,2020,latin
+518,musica mexicana,0,2020,latin
+519,musica potosina,0,2020,latin
+520,norteno,0,2020,latin
+521,norteno-sax,0,2020,latin
+522,sierreno,0,2020,latin
+523,banda,0,2020,latin
+524,cumbia sonorense,0,2020,latin
+525,musica costena,0,2020,latin
+526,tejano,0,2020,latin
+527,dark r&b,0,2020,nonlatin
+528,rebel blues,0,2020,nonlatin
+529,teen pop,0,2020,nonlatin
+530,none,0,2020,unknown
+531,canadian contemporary r&b,0,2020,nonlatin
+532,girl group,0,2020,nonlatin
+533,funk pop,0,2020,nonlatin
+534,funk rj,0,2020,nonlatin
+535,pagode baiano,0,2020,latin
+536,pop nacional,0,2020,latin
+537,pop worship,0,2020,nonlatin
+538,worship,0,2020,nonlatin
+539,electropop,0,2020,nonlatin
+540,etherpop,0,2020,nonlatin
+541,indie poptimism,0,2020,nonlatin
+542,bergen indie,0,2020,nonlatin
+543,gauze pop,0,2020,nonlatin
+544,bedroom soul,0,2020,nonlatin
+545,scandipop,0,2020,nonlatin
+546,chicago rap,0,2020,nonlatin
+547,alternative r&b,0,2020,nonlatin
+548,ccm,0,2020,nonlatin
+549,christian alternative rock,0,2020,nonlatin
+550,christian music,0,2020,nonlatin
+551,show tunes,0,2020,nonlatin
+552,pov: indie,0,2020,nonlatin
+553,canadian rock,0,2020,nonlatin
+554,british singer-songwriter,0,2020,nonlatin
+555,deep talent show,0,2020,nonlatin
+556,house,0,2020,nonlatin
+557,indietronica,0,2020,latin
+558,uk dance,0,2020,nonlatin
+559,album rock,0,2020,nonlatin
+560,classic rock,0,2020,nonlatin
+561,hard rock,0,2020,nonlatin
+562,mellow gold,0,2020,nonlatin
+563,rock,0,2020,nonlatin
+564,soft rock,0,2020,nonlatin
+565,yacht rock,0,2020,nonlatin
+566,acoustic pop,0,2020,nonlatin
+567,australian alternative pop,0,2020,nonlatin
+568,norwegian pop,0,2020,nonlatin
+569,colombian pop,0,2020,latin
+570,banda sinaloense,0,2020,latin
+571,duranguense,0,2020,latin
+572,grupera,0,2020,latin
+573,sad sierreno,0,2020,latin
+574,mexican pop,0,2020,latin
+575,rock en espanol,0,2020,latin
+576,ranchera,0,2020,latin
+577,latin arena pop,0,2020,latin
+578,reggaeton,0,2020,latin
+579,urbano latino,0,2020,latin
+580,spanish pop,0,2020,latin
+581,latin viral pop,0,2020,latin
+582,reggaeton colombiano,0,2020,latin
+583,trap latino,0,2020,latin
+584,cantautora mexicana,0,2020,latin
+585,latin alternative,0,2020,latin
+586,mexican rock,0,2020,latin
+587,bachata,0,2020,latin
+588,bachata dominicana,0,2020,latin
+589,tropical,0,2020,nonlatin
+590,uk contemporary r&b,0,2020,nonlatin
+591,mariachi,0,2020,latin
+592,latin talent show,0,2020,latin
+593,reggaeton flow,0,2020,latin
+594,latin hip hop,0,2020,latin
+595,trap colombiano,0,2020,latin
+596,rap latina,0,2020,latin
+597,dembow,0,2020,nonlatin
+598,rap dominicano,0,2020,latin
+599,cumbia pop,0,2020,latin
+600,trap argentino,0,2020,latin
+601,pop venezolano,0,2020,latin
+602,pop argentino,0,2020,latin
+603,panamanian pop,0,2020,latin
+604,pop reggaeton,0,2020,latin
+605,bedroom pop,0,2020,nonlatin
+606,cumbia peruana,0,2020,latin
+607,hip pop,0,2020,nonlatin
+608,queens hip hop,0,2020,nonlatin
+609,latin rock,0,2020,latin
+610,funk carioca,0,2020,latin
+611,funk das antigas,0,2020,latin
+612,funk ostentacao,0,2020,nonlatin
+613,sertanejo universitario,0,2020,latin
+614,vallenato,0,2020,latin
+615,argentine hip hop,0,2020,latin
+616,rap canario,0,2020,latin
+617,r&b en espanol,0,2020,latin
+618,peruvian indie,0,2020,latin
+619,concurso de talentos argentino,0,2020,latin
+620,urbano mexicano,0,2020,latin
+621,cumbia,0,2020,latin
+622,pop electronico,0,2020,latin
+623,tropical alternativo,0,2020,latin
+624,latintronica,0,2020,latin
+625,puerto rican indie,0,2020,latin
+626,bachata,1,2021,latin
+627,bachata dominicana,1,2021,latin
+628,banda,15,2021,latin
+629,banda sinaloense,2,2021,latin
+630,canadian contemporary r&b,2,2021,nonlatin
+631,canadian pop,2,2021,nonlatin
+632,cantautora mexicana,2,2021,latin
+633,colombian pop,6,2021,latin
+634,duranguense,2,2021,latin
+635,grupera,2,2021,latin
+636,latin alternative,1,2021,latin
+637,latin arena pop,18,2021,latin
+638,latin pop,26,2021,latin
+639,latin talent show,1,2021,latin
+640,latin viral pop,4,2021,latin
+641,mariachi,2,2021,latin
+642,mexican pop,19,2021,latin
+643,mexican rock,1,2021,latin
+644,musica mexicana,18,2021,latin
+645,neo mellow,1,2021,nonlatin
+646,none,1,2021,unknown
+647,norteno,16,2021,latin
+648,pop,37,2021,nonlatin
+649,pop soul,1,2021,nonlatin
+650,r&b,1,2021,nonlatin
+651,ranchera,3,2021,latin
+652,reggaeton,15,2021,latin
+653,reggaeton colombiano,6,2021,latin
+654,rock en espanol,1,2021,latin
+655,sad sierreno,1,2021,latin
+656,spanish pop,3,2021,latin
+657,tejano,1,2021,latin
+658,trap latino,3,2021,latin
+659,tropical,1,2021,nonlatin
+660,uk contemporary r&b,1,2021,nonlatin
+661,uk pop,32,2021,nonlatin
+662,urbano latino,15,2021,latin
+663,viral pop,1,2021,nonlatin
+664,pop,0,2021,nonlatin
+665,dance pop,0,2021,nonlatin
+666,edm,0,2021,nonlatin
+667,pop dance,0,2021,nonlatin
+668,progressive electro house,0,2021,nonlatin
+669,contemporary country,0,2021,nonlatin
+670,country,0,2021,nonlatin
+671,country pop,0,2021,nonlatin
+672,country road,0,2021,nonlatin
+673,modern country rock,0,2021,nonlatin
+674,modern alternative rock,0,2021,nonlatin
+675,uk pop,0,2021,nonlatin
+676,boy band,0,2021,nonlatin
+677,canadian pop,0,2021,nonlatin
+678,viral pop,0,2021,nonlatin
+679,alt z,0,2021,nonlatin
+680,contemporary r&b,0,2021,nonlatin
+681,new jack swing,0,2021,nonlatin
+682,r&b,0,2021,nonlatin
+683,urban contemporary,0,2021,nonlatin
+684,social media pop,0,2021,nonlatin
+685,art pop,0,2021,nonlatin
+686,pop r&b,0,2021,nonlatin
+687,post-teen pop,0,2021,nonlatin
+688,modern rock,0,2021,nonlatin
+689,rap,0,2021,nonlatin
+690,talent show,0,2021,nonlatin
+691,metropopolis,0,2021,nonlatin
+692,nz pop,0,2021,nonlatin
+693,british soul,0,2021,nonlatin
+694,pop soul,0,2021,nonlatin
+695,singer-songwriter pop,0,2021,nonlatin
+696,atl hip hop,0,2021,nonlatin
+697,atl trap,0,2021,nonlatin
+698,gangster rap,0,2021,nonlatin
+699,melodic rap,0,2021,nonlatin
+700,trap,0,2021,nonlatin
+701,hollywood,0,2021,nonlatin
+702,movie tunes,0,2021,nonlatin
+703,indie anthem-folk,0,2021,latin
+704,dance rock,0,2021,nonlatin
+705,neo mellow,0,2021,nonlatin
+706,pop rock,0,2021,nonlatin
+707,brostep,0,2021,nonlatin
+708,latin pop,0,2021,latin
+709,puerto rican pop,0,2021,latin
+710,australian dance,0,2021,nonlatin
+711,australian pop,0,2021,nonlatin
+712,corrido,0,2021,latin
+713,musica mexicana,0,2021,latin
+714,musica potosina,0,2021,latin
+715,norteno,0,2021,latin
+716,norteno-sax,0,2021,latin
+717,sierreno,0,2021,latin
+718,banda,0,2021,latin
+719,cumbia sonorense,0,2021,latin
+720,musica costena,0,2021,latin
+721,tejano,0,2021,latin
+722,dark r&b,0,2021,nonlatin
+723,rebel blues,0,2021,nonlatin
+724,teen pop,0,2021,nonlatin
+725,none,0,2021,unknown
+726,canadian contemporary r&b,0,2021,nonlatin
+727,girl group,0,2021,nonlatin
+728,funk pop,0,2021,nonlatin
+729,funk rj,0,2021,nonlatin
+730,pagode baiano,0,2021,latin
+731,pop nacional,0,2021,latin
+732,pop worship,0,2021,nonlatin
+733,worship,0,2021,nonlatin
+734,electropop,0,2021,nonlatin
+735,etherpop,0,2021,nonlatin
+736,indie poptimism,0,2021,nonlatin
+737,bergen indie,0,2021,nonlatin
+738,gauze pop,0,2021,nonlatin
+739,bedroom soul,0,2021,nonlatin
+740,scandipop,0,2021,nonlatin
+741,chicago rap,0,2021,nonlatin
+742,alternative r&b,0,2021,nonlatin
+743,ccm,0,2021,nonlatin
+744,christian alternative rock,0,2021,nonlatin
+745,christian music,0,2021,nonlatin
+746,show tunes,0,2021,nonlatin
+747,pov: indie,0,2021,nonlatin
+748,canadian rock,0,2021,nonlatin
+749,british singer-songwriter,0,2021,nonlatin
+750,deep talent show,0,2021,nonlatin
+751,house,0,2021,nonlatin
+752,indietronica,0,2021,latin
+753,uk dance,0,2021,nonlatin
+754,album rock,0,2021,nonlatin
+755,classic rock,0,2021,nonlatin
+756,hard rock,0,2021,nonlatin
+757,mellow gold,0,2021,nonlatin
+758,rock,0,2021,nonlatin
+759,soft rock,0,2021,nonlatin
+760,yacht rock,0,2021,nonlatin
+761,acoustic pop,0,2021,nonlatin
+762,australian alternative pop,0,2021,nonlatin
+763,norwegian pop,0,2021,nonlatin
+764,colombian pop,0,2021,latin
+765,banda sinaloense,0,2021,latin
+766,duranguense,0,2021,latin
+767,grupera,0,2021,latin
+768,sad sierreno,0,2021,latin
+769,mexican pop,0,2021,latin
+770,rock en espanol,0,2021,latin
+771,ranchera,0,2021,latin
+772,latin arena pop,0,2021,latin
+773,reggaeton,0,2021,latin
+774,urbano latino,0,2021,latin
+775,spanish pop,0,2021,latin
+776,latin viral pop,0,2021,latin
+777,reggaeton colombiano,0,2021,latin
+778,trap latino,0,2021,latin
+779,cantautora mexicana,0,2021,latin
+780,latin alternative,0,2021,latin
+781,mexican rock,0,2021,latin
+782,bachata,0,2021,latin
+783,bachata dominicana,0,2021,latin
+784,tropical,0,2021,nonlatin
+785,uk contemporary r&b,0,2021,nonlatin
+786,mariachi,0,2021,latin
+787,latin talent show,0,2021,latin
+788,reggaeton flow,0,2021,latin
+789,latin hip hop,0,2021,latin
+790,trap colombiano,0,2021,latin
+791,rap latina,0,2021,latin
+792,dembow,0,2021,nonlatin
+793,rap dominicano,0,2021,latin
+794,cumbia pop,0,2021,latin
+795,trap argentino,0,2021,latin
+796,pop venezolano,0,2021,latin
+797,pop argentino,0,2021,latin
+798,panamanian pop,0,2021,latin
+799,pop reggaeton,0,2021,latin
+800,bedroom pop,0,2021,nonlatin
+801,cumbia peruana,0,2021,latin
+802,hip pop,0,2021,nonlatin
+803,queens hip hop,0,2021,nonlatin
+804,latin rock,0,2021,latin
+805,funk carioca,0,2021,latin
+806,funk das antigas,0,2021,latin
+807,funk ostentacao,0,2021,nonlatin
+808,sertanejo universitario,0,2021,latin
+809,vallenato,0,2021,latin
+810,argentine hip hop,0,2021,latin
+811,rap canario,0,2021,latin
+812,r&b en espanol,0,2021,latin
+813,peruvian indie,0,2021,latin
+814,concurso de talentos argentino,0,2021,latin
+815,urbano mexicano,0,2021,latin
+816,cumbia,0,2021,latin
+817,pop electronico,0,2021,latin
+818,tropical alternativo,0,2021,latin
+819,latintronica,0,2021,latin
+820,puerto rican indie,0,2021,latin
+821,alt z,1,2022,nonlatin
+822,argentine hip hop,1,2022,latin
+823,bachata,6,2022,latin
+824,bachata dominicana,2,2022,latin
+825,banda,5,2022,latin
+826,bedroom pop,2,2022,nonlatin
+827,bedroom soul,1,2022,nonlatin
+828,boy band,2,2022,nonlatin
+829,canadian contemporary r&b,1,2022,nonlatin
+830,canadian pop,2,2022,nonlatin
+831,cantautora mexicana,1,2022,latin
+832,colombian pop,11,2022,latin
+833,concurso de talentos argentino,1,2022,latin
+834,cumbia,1,2022,latin
+835,cumbia peruana,1,2022,latin
+836,cumbia pop,1,2022,latin
+837,dembow,1,2022,nonlatin
+838,electropop,1,2022,nonlatin
+839,funk carioca,1,2022,latin
+840,funk das antigas,1,2022,latin
+841,funk ostentacao,1,2022,nonlatin
+842,funk pop,1,2022,nonlatin
+843,grupera,2,2022,latin
+844,hip pop,1,2022,nonlatin
+845,latin alternative,2,2022,latin
+846,latin arena pop,4,2022,latin
+847,latin hip hop,15,2022,latin
+848,latin pop,36,2022,latin
+849,latin rock,2,2022,latin
+850,latin viral pop,15,2022,latin
+851,latintronica,1,2022,latin
+852,mariachi,1,2022,latin
+853,mexican pop,6,2022,latin
+854,musica mexicana,7,2022,latin
+855,norteno,5,2022,latin
+856,panamanian pop,1,2022,latin
+857,peruvian indie,1,2022,latin
+858,pop,6,2022,nonlatin
+859,pop argentino,6,2022,latin
+860,pop electronico,1,2022,latin
+861,pop r&b,1,2022,nonlatin
+862,pop reggaeton,2,2022,latin
+863,pop venezolano,2,2022,latin
+864,post-teen pop,1,2022,nonlatin
+865,pov: indie,1,2022,nonlatin
+866,puerto rican indie,1,2022,latin
+867,puerto rican pop,18,2022,latin
+868,queens hip hop,1,2022,nonlatin
+869,r&b en espanol,2,2022,latin
+870,ranchera,2,2022,latin
+871,rap,1,2022,nonlatin
+872,rap canario,1,2022,latin
+873,rap dominicano,1,2022,latin
+874,rap latina,6,2022,latin
+875,reggaeton,74,2022,latin
+876,reggaeton colombiano,24,2022,latin
+877,reggaeton flow,6,2022,latin
+878,rock en espanol,1,2022,latin
+879,sad sierreno,1,2022,latin
+880,sertanejo universitario,1,2022,latin
+881,spanish pop,1,2022,latin
+882,tejano,1,2022,latin
+883,trap argentino,3,2022,latin
+884,trap colombiano,1,2022,latin
+885,trap latino,69,2022,latin
+886,tropical,2,2022,nonlatin
+887,tropical alternativo,1,2022,latin
+888,urbano latino,79,2022,latin
+889,urbano mexicano,1,2022,latin
+890,vallenato,2,2022,latin
+891,viral pop,1,2022,nonlatin
+892,pop,0,2022,nonlatin
+893,dance pop,0,2022,nonlatin
+894,edm,0,2022,nonlatin
+895,pop dance,0,2022,nonlatin
+896,progressive electro house,0,2022,nonlatin
+897,contemporary country,0,2022,nonlatin
+898,country,0,2022,nonlatin
+899,country pop,0,2022,nonlatin
+900,country road,0,2022,nonlatin
+901,modern country rock,0,2022,nonlatin
+902,modern alternative rock,0,2022,nonlatin
+903,uk pop,0,2022,nonlatin
+904,boy band,0,2022,nonlatin
+905,canadian pop,0,2022,nonlatin
+906,viral pop,0,2022,nonlatin
+907,alt z,0,2022,nonlatin
+908,contemporary r&b,0,2022,nonlatin
+909,new jack swing,0,2022,nonlatin
+910,r&b,0,2022,nonlatin
+911,urban contemporary,0,2022,nonlatin
+912,social media pop,0,2022,nonlatin
+913,art pop,0,2022,nonlatin
+914,pop r&b,0,2022,nonlatin
+915,post-teen pop,0,2022,nonlatin
+916,modern rock,0,2022,nonlatin
+917,rap,0,2022,nonlatin
+918,talent show,0,2022,nonlatin
+919,metropopolis,0,2022,nonlatin
+920,nz pop,0,2022,nonlatin
+921,british soul,0,2022,nonlatin
+922,pop soul,0,2022,nonlatin
+923,singer-songwriter pop,0,2022,nonlatin
+924,atl hip hop,0,2022,nonlatin
+925,atl trap,0,2022,nonlatin
+926,gangster rap,0,2022,nonlatin
+927,melodic rap,0,2022,nonlatin
+928,trap,0,2022,nonlatin
+929,hollywood,0,2022,nonlatin
+930,movie tunes,0,2022,nonlatin
+931,indie anthem-folk,0,2022,latin
+932,dance rock,0,2022,nonlatin
+933,neo mellow,0,2022,nonlatin
+934,pop rock,0,2022,nonlatin
+935,brostep,0,2022,nonlatin
+936,latin pop,0,2022,latin
+937,puerto rican pop,0,2022,latin
+938,australian dance,0,2022,nonlatin
+939,australian pop,0,2022,nonlatin
+940,corrido,0,2022,latin
+941,musica mexicana,0,2022,latin
+942,musica potosina,0,2022,latin
+943,norteno,0,2022,latin
+944,norteno-sax,0,2022,latin
+945,sierreno,0,2022,latin
+946,banda,0,2022,latin
+947,cumbia sonorense,0,2022,latin
+948,musica costena,0,2022,latin
+949,tejano,0,2022,latin
+950,dark r&b,0,2022,nonlatin
+951,rebel blues,0,2022,nonlatin
+952,teen pop,0,2022,nonlatin
+953,none,0,2022,unknown
+954,canadian contemporary r&b,0,2022,nonlatin
+955,girl group,0,2022,nonlatin
+956,funk pop,0,2022,nonlatin
+957,funk rj,0,2022,nonlatin
+958,pagode baiano,0,2022,latin
+959,pop nacional,0,2022,latin
+960,pop worship,0,2022,nonlatin
+961,worship,0,2022,nonlatin
+962,electropop,0,2022,nonlatin
+963,etherpop,0,2022,nonlatin
+964,indie poptimism,0,2022,nonlatin
+965,bergen indie,0,2022,nonlatin
+966,gauze pop,0,2022,nonlatin
+967,bedroom soul,0,2022,nonlatin
+968,scandipop,0,2022,nonlatin
+969,chicago rap,0,2022,nonlatin
+970,alternative r&b,0,2022,nonlatin
+971,ccm,0,2022,nonlatin
+972,christian alternative rock,0,2022,nonlatin
+973,christian music,0,2022,nonlatin
+974,show tunes,0,2022,nonlatin
+975,pov: indie,0,2022,nonlatin
+976,canadian rock,0,2022,nonlatin
+977,british singer-songwriter,0,2022,nonlatin
+978,deep talent show,0,2022,nonlatin
+979,house,0,2022,nonlatin
+980,indietronica,0,2022,latin
+981,uk dance,0,2022,nonlatin
+982,album rock,0,2022,nonlatin
+983,classic rock,0,2022,nonlatin
+984,hard rock,0,2022,nonlatin
+985,mellow gold,0,2022,nonlatin
+986,rock,0,2022,nonlatin
+987,soft rock,0,2022,nonlatin
+988,yacht rock,0,2022,nonlatin
+989,acoustic pop,0,2022,nonlatin
+990,australian alternative pop,0,2022,nonlatin
+991,norwegian pop,0,2022,nonlatin
+992,colombian pop,0,2022,latin
+993,banda sinaloense,0,2022,latin
+994,duranguense,0,2022,latin
+995,grupera,0,2022,latin
+996,sad sierreno,0,2022,latin
+997,mexican pop,0,2022,latin
+998,rock en espanol,0,2022,latin
+999,ranchera,0,2022,latin
+1000,latin arena pop,0,2022,latin
+1001,reggaeton,0,2022,latin
+1002,urbano latino,0,2022,latin
+1003,spanish pop,0,2022,latin
+1004,latin viral pop,0,2022,latin
+1005,reggaeton colombiano,0,2022,latin
+1006,trap latino,0,2022,latin
+1007,cantautora mexicana,0,2022,latin
+1008,latin alternative,0,2022,latin
+1009,mexican rock,0,2022,latin
+1010,bachata,0,2022,latin
+1011,bachata dominicana,0,2022,latin
+1012,tropical,0,2022,nonlatin
+1013,uk contemporary r&b,0,2022,nonlatin
+1014,mariachi,0,2022,latin
+1015,latin talent show,0,2022,latin
+1016,reggaeton flow,0,2022,latin
+1017,latin hip hop,0,2022,latin
+1018,trap colombiano,0,2022,latin
+1019,rap latina,0,2022,latin
+1020,dembow,0,2022,nonlatin
+1021,rap dominicano,0,2022,latin
+1022,cumbia pop,0,2022,latin
+1023,trap argentino,0,2022,latin
+1024,pop venezolano,0,2022,latin
+1025,pop argentino,0,2022,latin
+1026,panamanian pop,0,2022,latin
+1027,pop reggaeton,0,2022,latin
+1028,bedroom pop,0,2022,nonlatin
+1029,cumbia peruana,0,2022,latin
+1030,hip pop,0,2022,nonlatin
+1031,queens hip hop,0,2022,nonlatin
+1032,latin rock,0,2022,latin
+1033,funk carioca,0,2022,latin
+1034,funk das antigas,0,2022,latin
+1035,funk ostentacao,0,2022,nonlatin
+1036,sertanejo universitario,0,2022,latin
+1037,vallenato,0,2022,latin
+1038,argentine hip hop,0,2022,latin
+1039,rap canario,0,2022,latin
+1040,r&b en espanol,0,2022,latin
+1041,peruvian indie,0,2022,latin
+1042,concurso de talentos argentino,0,2022,latin
+1043,urbano mexicano,0,2022,latin
+1044,cumbia,0,2022,latin
+1045,pop electronico,0,2022,latin
+1046,tropical alternativo,0,2022,latin
+1047,latintronica,0,2022,latin
+1048,puerto rican indie,0,2022,latin

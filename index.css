@@ -1,0 +1,369 @@
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(images/marble2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #FFFFFF;
+    background-color: #fbf5ef;
+    justify-content: center;
+
+}
+
+#MainTitle{
+    color: #6a300b;
+    /* text-align: left; */
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Times New Roman', serif;
+    /* margin-top: 10px; */
+    /* margin-left: 50px; */
+}
+
+
+#MainSubtitle{
+    color: #a1631b;
+    /* text-align: left; */
+    text-align: center;
+    font-size: 27px;
+    font-family: 'Times New Roman', serif;
+    /* margin-left: 50px */
+}
+
+#CreatorName{
+    color: #a1631b;
+    /* text-align:left; */
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', serif;
+    /* margin-left:50px; */
+    margin-bottom: 40px;
+}
+
+
+.Albums{
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-color: #a1631b;
+    border-width: 0px;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.AlbumBanner{
+ display: flex;
+ margin-top: 5px;
+ margin-left: 3px
+}
+
+#IntroBox{
+    background-color: #fbf5ef;
+    height: 450px;
+    width: 950px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(233, 111, 67);
+    position: relative;
+    /* margin-right: auto; */
+    padding: 50px;
+    /* box-shadow: 10px 10px 8px #6a300b; */
+    left: 50%; 
+    transform: translate(-50%, 0%);
+    margin-bottom: 70px;
+}
+
+.TextHeaders{
+    font-size: 35px;
+    color: #6a300b;
+    font-family: 'Times New Roman', serif;
+}
+
+.VizHeaders{
+    color: #6a300b;
+    font-size: 30px;
+    text-align: center;
+    /* margin-left: 50px; */
+    margin-bottom: 50px;
+}
+
+
+.Snippets{
+    font-size: 20px;
+    color: #6a300b;
+    font-family: 'Garamond', serif;
+    line-height: 2;
+    text-align:start;
+}
+
+#TracksSnippet{
+    background-color: #fbf5ef;
+    width: 650px;
+    height: 577px;
+    border-style: solid;
+    border-color: rgb(182, 32, 32);
+    border-width: 5px;
+    color: #6a300b;
+    margin-left: 6px;
+    float:left;
+    margin-top: 0px;
+    padding: 25px;
+    font-size: 20px;
+    font-family: 'Garamond', serif;
+    line-height: 2;
+    text-align:start;
+}
+
+/* Tracks Visualization */
+#viz1701737771617{
+    background-color: rgb(182, 32, 32);
+    padding: 5px;
+    margin-left: auto;
+    margin-right: 6px;
+}
+
+#TracksBox{
+    margin-bottom: 50px;
+}
+
+/* Artists Visualization */
+#viz1701711443210{
+    background-color: rgb(226, 138, 100);
+    padding: 5px;
+    margin: auto;
+    margin-bottom: 30px;
+
+}
+
+#ArtistsSnippet{
+    background-color: #fbf5ef;
+    color: #6a300b;
+    width: 1200px;
+    height: auto;
+    border-style: solid;
+    border-color: rgb(226, 138, 100);
+    border-width: 5px;
+    color: #6a300b;
+    margin: auto;
+    margin-top:0px;
+    padding: 25px;
+    font-size: 20px;
+    font-family: 'Garamond', serif;
+    line-height: 2;
+    text-align:start;
+}
+
+#ArtistsBox{
+    margin-bottom:50px;
+    margin-top: 50px;
+    height: 727px;
+    min-height: fit-content;
+}
+
+#GenresSnippet{
+    background-color: #fbf5ef;
+    width: 650px;
+    height: 604px;
+    border-style: solid;
+    border-color: rgb(215, 115, 152);
+    border-width: 5px;
+    color: #6a300b;
+    margin-left: 6px;
+    float:left;
+    margin-top: 0px;
+    padding: 25px;
+    font-size: 20px;
+    font-family: 'Garamond', serif;
+    line-height: 2;
+    text-align:start;
+}
+
+/* Genres Visualization */
+#viz1701713009389{
+    background-color: rgb(215, 115, 152);
+    padding: 5px;
+    margin-left: auto;
+    margin-right: 6px;
+}
+
+#GenresBox{
+    margin-bottom:50px;
+    margin-top: 50px;
+}
+
+#PersonalVizSnippet{
+    background-color: #fbf5ef;
+    width: 650px;
+    height: 605px;
+    border-style: solid;
+    border-color: rgb(228, 177, 76);
+    border-width: 5px;
+    color: #6a300b;
+    margin-right: 6px;
+    float:right;
+    margin-top: 0px;
+    padding: 25px;
+    font-size: 20px;
+    font-family: 'Garamond', serif;
+    line-height: 2;
+    text-align:start;
+    margin-bottom: 50px;
+}
+
+/* Personal Visualization */
+#viz1701716455797{
+    background-color: rgb(228, 177, 76);
+    padding: 5px;
+    margin-left: 6px;
+}
+
+#PersonalVizBox{
+    column-count: 2;
+}
+
+/* Adjust overlapping divs for personal visualization analysis on a smaller screen*/
+@media (max-width: 1430px){
+    #PersonalVizBox{
+        column-count: 1;
+    }
+    /* Personal Visualization */
+    #viz1701716455797{
+    background-color: rgb(228, 177, 76);
+    padding: 5px;
+    margin-left: 6px;
+    margin-bottom: 30px;
+}
+}
+
+
+#ConclusionBox{
+    background-color: #fbf5ef;
+    height: 300px;
+    width: 950px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(233, 111, 67);
+    position: relative;
+    padding: 50px;
+    left: 50%; 
+    transform: translate(-50%, 0%);
+    margin-bottom: 50px;
+}
+
+#DivLine{
+    background-color:#a1631b;
+    height: 2px;
+    width:auto;
+    /* margin-right: auto; */
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#DivLineBottom{
+    background-color:#a1631b;
+    height: 2px;
+    width:auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.LeftDivXLong{
+    background-color:#a1631b;
+    height: 5px;
+    width:1200px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+
+.LeftDivLong{
+    background-color:#a1631b;
+    height: 5px;
+    width: 1000px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.LeftDivMid{
+    background-color:#a1631b;
+    height: 5px;
+    width:800px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+
+.LeftDivShort{
+    background-color:#a1631b;
+    height: 5px;
+    width:400px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+
+.RightDivXLong{
+    background-color:#a1631b;
+    height: 5px;
+    width:1200px;
+    margin-bottom: 10px;
+    margin-left: auto; 
+    margin-right: 10px;
+    float:right;
+}
+
+
+.RightDivLong{
+    background-color:#a1631b;
+    height: 5px;
+    width: 1000px;
+    margin-bottom: 10px;
+    margin-left: auto; 
+    margin-right: 10px;
+    float:right;
+}
+
+.RightDivMid{
+    background-color:#a1631b;
+    height: 5px;
+    width:800px;
+    margin-bottom: 10px;
+    margin-left: auto; 
+    margin-right: 10px;
+    position: relative;
+}
+
+
+.RightDivShort{
+    background-color:#a1631b;
+    height: 5px;
+    width:400px;
+    margin-left: auto; 
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float:right;
+}
+
+.LeftDivider{
+    margin-bottom:30px;
+}
+
+.RightDivider{
+    display: inline-block;
+    margin-bottom:-4px;
+}
+
+.BiggerDivider{
+    margin-bottom: 70px;
+}
+
+.Spacing{
+    width: 1200px;
+    height: 600px;
+}
+
+

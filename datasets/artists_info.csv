@@ -1,0 +1,481 @@
+,artist_id,artist_name,genres,is_latin
+0,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,pop,nonlatin
+1,4bw2Am3p9ji3mYsXNXtQcd,Piso 21,"colombian pop,latin pop,reggaeton,reggaeton colombiano,trap latino,urbano latino",latin
+2,0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,"colombian pop,reggaeton,reggaeton colombiano,trap latino,urbano latino",latin
+3,1i8SpTcr7yvPOmcqrbnVXY,Ozuna,"puerto rican pop,reggaeton,trap latino,urbano latino",latin
+4,5hdhHgpxyniooUiQVaPxQ0,Nio Garcia,"reggaeton,trap latino,urbano latino",latin
+5,1fux65HMCBvfJHqlBc4Nno,Casper Magico,"reggaeton,reggaeton flow,trap latino,urbano latino",latin
+6,4q3ewBCX7sLwd24euuV69X,Bad Bunny,"reggaeton,trap latino,urbano latino",latin
+7,1TtXnWcUs0FCkaZDPGYHdf,Darell,"latin hip hop,reggaeton,trap latino,urbano latino",latin
+8,1SupJlEpv7RS2tPNRaHViT,Nicky Jam,"latin hip hop,reggaeton,trap latino,urbano latino",latin
+9,0vR2qb8m9WHeZ5ByCbimq2,Reik,"latin arena pop,latin pop,mexican pop,reggaeton,urbano latino",latin
+10,3E6xrwgnVfYCrCs0ePERDz,Wisin,"reggaeton,urbano latino",latin
+11,1r4hJ1h58CWwUQe3MxPuau,Maluma,"latin pop,reggaeton,reggaeton colombiano,trap latino,urbano latino",latin
+12,1B0Rp4SWGnFgGCPU5Pju6E,Nego do Borel,"funk carioca,funk das antigas,funk ostentacao,funk pop,sertanejo universitario",latin
+13,4obzFoKoKRHIphyHzJ35G3,Becky G,"latin pop,latin viral pop,rap latina,reggaeton,trap latino,urbano latino",latin
+14,1GDbiv3spRmZ1XdM1jQbT7,NATTI NATASHA,"latin pop,rap latina,reggaeton,urbano latino",latin
+15,1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,"reggaeton,reggaeton colombiano,trap latino,urbano latino",latin
+16,3uwAm6vQy7kWPS2bciKWx9,girl in red,"bedroom pop,indie pop,norwegian indie,pov: indie",nonlatin
+17,4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,"latin pop,puerto rican pop",latin
+18,6S2OmqARrzebs0tKUEyXyp,Demi Lovato,"pop,post-teen pop",nonlatin
+19,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,"conscious hip hop,hip hop,rap,west coast rap",nonlatin
+20,3qBKjEOanahMxlRojwCzhI,Zacari,none,unknown
+21,4VMYDCV2IEDYJArk749S6m,Daddy Yankee,"latin hip hop,reggaeton,trap latino,urbano latino",latin
+22,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,"canadian contemporary r&b,canadian pop,pop",nonlatin
+23,0haZhu4fFKt0Ag94kZDiz2,Sofía Reyes,"latin pop,latin viral pop,mexican pop,reggaeton",latin
+24,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,"dance pop,pop",nonlatin
+25,3EiLUeyEcA6fbRPSHkG5kb,De La Ghetto,"reggaeton,reggaeton flow,trap latino,urbano latino",latin
+26,4kYSro6naA4h99UJvo89HB,Cardi B,"pop,rap",nonlatin
+27,540vIaP2JwjQb9dm3aArA4,DJ Snake,"dance pop,edm,electronic trap,pop,pop dance",nonlatin
+28,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,"pop,post-teen pop",nonlatin
+29,5f7VJjfbwm532GiveGC0ZK,Lil Baby,"atl hip hop,atl trap,rap,trap",nonlatin
+30,3TVXtAsR1Inumwj472S9r4,Drake,"canadian hip hop,canadian pop,hip hop,pop rap,rap",nonlatin
+31,06HL4z0CvFAxyc27GXpf02,Taylor Swift,pop,nonlatin
+32,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,"contemporary country,country,country road,modern country rock",nonlatin
+33,4LLpKhyESsyAXpc4laK94U,Mac Miller,"hip hop,pittsburgh rap,pop rap,rap",nonlatin
+34,4DdkRBBYG6Yk9Ka8tdJ9BW,Offset,"atl hip hop,hip hop,pop rap,rap,trap",nonlatin
+35,0iEtIxbK0KxaSlF7G42ZOp,Metro Boomin,rap,nonlatin
+36,6U1dBXJhC8gXFjamvFTmHg,Zac Efron,"hollywood,movie tunes,post-teen pop",nonlatin
+37,6sCbFbEjbYepqswM1vWjjs,Zendaya,"pop,post-teen pop",nonlatin
+38,7gZfnEnfiaHzxARJ2LeXrf,6ix9ine,emo rap,nonlatin
+39,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,"hip pop,pop,queens hip hop,rap",nonlatin
+40,3CbYyyd8wH3RT6t0jwpdzC,Murda Beatz,"canadian hip hop,canadian trap",nonlatin
+41,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,"art pop,pop",nonlatin
+42,6LuN9FCkKOj5PcnpouEgny,Khalid,"pop,pop r&b",nonlatin
+43,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,"dance pop,pop,uk pop",nonlatin
+44,4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,"dance pop,pop",nonlatin
+45,6oMuImdp5ZcFhWP0ESe6mG,Migos,"atl hip hop,hip hop,pop rap,rap,trap",nonlatin
+46,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,"hip hop,rap,slap house",nonlatin
+47,7tYKF4w9nC0nq9CsPZTHyP,SZA,"pop,r&b,rap",nonlatin
+48,7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,"contemporary country,country,country road",nonlatin
+49,4GvEc3ANtPPjt1ZJllr5Zl,Bazzi,pop,nonlatin
+50,3QSQFmccmX81fWCUSPTS7y,Dean Lewis,"australian pop,pop",nonlatin
+51,7CajNmpbOovFoOoasH2HaY,Calvin Harris,"dance pop,edm,electro house,house,pop,pop dance,progressive house,uk dance",nonlatin
+52,5LHRHt1k9lMyONurDHEdrp,Tyga,"hip hop,pop rap,rap,trap",nonlatin
+53,5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,"boy band,pop",nonlatin
+54,37M5pPGs6V1fchFJSgCguX,FINNEAS,"alt z,la indie,pop,pov: indie",nonlatin
+55,4TEJudQY2pXxVHPE3gD2EU,BlocBoy JB,"memphis hip hop,rap,tennessee hip hop,trap",nonlatin
+56,5JZ7CnR6gTvEMKX4g70Amv,Lauv,pop,nonlatin
+57,7HkdQ0gt53LP4zmHsL0nap,Ella Mai,"r&b,rap,uk contemporary r&b",nonlatin
+58,6beUvFUlKliUYJdLOXNj9C,King Princess,"alt z,indie pop,nyc pop",nonlatin
+59,3v6Ji4uoWtKRkhuDUaxi9n,Dynoro,edm,nonlatin
+60,1OAjDaKgg00KCUYqDe68un,Gigi D'Agostino,"eurodance,italo dance",nonlatin
+61,02kJSzxNuaWGqwubyUba0Z,G-Eazy,"indie pop rap,oakland hip hop,pop rap,rap",nonlatin
+62,26VFTg2z8YR0cCuwLzESi2,Halsey,"electropop,etherpop,indie poptimism,pop",nonlatin
+63,15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,"emo rap,miami hip hop",nonlatin
+64,6t1gpxYbY8OlLA7D2RiikQ,Loud Luxury,"edm,pop dance",nonlatin
+65,5uEeqYFuIChoWKy34jp8xE,Brando,"dance pop,pop dance",nonlatin
+66,0A0FS04o6zMoto8OKPsDwY,YG,"cali rap,hip hop,pop rap,rap,southern hip hop,trap",nonlatin
+67,17lzZA2AlOHwCwFALHttmp,2 Chainz,"atl hip hop,hip hop,pop rap,rap,southern hip hop,trap",nonlatin
+68,0c173mlxpT3dSFRgMO8XPh,Big Sean,"detroit hip hop,hip hop,pop rap,r&b,rap,trap",nonlatin
+69,4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,"chicago rap,melodic rap,rap",nonlatin
+70,2cWZOOzeOm4WmBJRnD5R7I,Normani,"pop,r&b",nonlatin
+71,64KEffDW9EtZ1y2vBYgq8T,Marshmello,"brostep,edm,pop,progressive electro house",nonlatin
+72,7EQ0qTo7fWT7DPxmxtSYEc,Bastille,"metropopolis,modern rock,pop",nonlatin
+73,5pUo3fmmHT8bhCyHE52hA6,Liam Payne,pop,nonlatin
+74,5CCwRZC6euC8Odo6y9X8jr,Rita Ora,"dance pop,pop,uk pop",nonlatin
+75,5CiGnKThu5ctn9pBxv7DGa,benny blanco,pop,nonlatin
+76,6MDME20pz9RveH9rEXvrOM,Clean Bandit,"pop,uk dance,uk funky",nonlatin
+77,0ZED1XzwlLHW4ZaG4lOT6m,Julia Michaels,pop,nonlatin
+78,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,"dance pop,pop",nonlatin
+79,28ExwzUQsvgJooOI0X1mr3,Jay Rock,"conscious hip hop,hip hop,rap,southern hip hop,trap",nonlatin
+80,1RyvyyTE3xzB2ZywiAwp0i,Future,"atl hip hop,hip hop,rap,southern hip hop,trap",nonlatin
+81,53KwLdlmrlCelAZMaLVZqU,James Blake,"art pop,indie soul,indietronica,neo soul,uk alternative pop",nonlatin
+82,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,"canadian pop,pop,viral pop",nonlatin
+83,04gDigrS5kc9YWfZHwBETP,Maroon 5,pop,nonlatin
+84,3mIj9lX2MWuHmhNCA7LSCW,The 1975,"modern alternative rock,modern rock,pop,pov: indie,rock",nonlatin
+85,2RDOrhPqAM4jzTRCEb19qX,Sheck Wes,"pop rap,rap,trap",nonlatin
+86,246dkjvS1zLTtiykXe5h60,Post Malone,"dfw rap,melodic rap,pop,rap",nonlatin
+87,1pPmIToKXyGdsCF6LmqLmI,Rich The Kid,"atl hip hop,melodic rap,plugg,rap,trap",nonlatin
+88,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,"big room,dance pop,edm,pop,pop dance",nonlatin
+89,5WUlDfRSoLAfcVSX1WnrxN,Sia,"australian dance,australian pop,pop",nonlatin
+90,3EOEK57CV77D4ovYVcmiyt,Dennis Lloyd,israeli pop,nonlatin
+91,5p7f24Rk5HkUZsaS3BLG5F,Hailee Steinfeld,pop,nonlatin
+92,4AVFqumd2ogHFlRbKIjp1t,Alesso,"dance pop,edm,pop,pop dance,progressive electro house",nonlatin
+93,3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,"contemporary country,country,country pop,country road,modern country rock",nonlatin
+94,4olE3I5QU0dvSR7LIpqTXc,WATT,modern alternative rock,nonlatin
+95,7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,"hip hop,pop rap,r&b,southern hip hop,trap,trap soul",nonlatin
+96,1zNqDE7qDGCsyzJwohVaoX,Anne-Marie,pop,nonlatin
+97,2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,"big room,brostep,dutch edm,edm,house,pop dance,slap house,trance",nonlatin
+98,5vQfv3s2Z2SRdPZKr82ABw,Dzeko,"canadian electronic,dutch house,edm,electro house,pop dance,pop edm,progressive electro house",nonlatin
+99,0bdJZl7TDeiymDYzMJnVh2,Preme,"canadian hip hop,canadian trap",nonlatin
+100,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,"pop,viral pop",nonlatin
+101,64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,"dance pop,pop",nonlatin
+102,1URnnhqYAYcrqrcwql10ft,21 Savage,"atl hip hop,hip hop,rap",nonlatin
+103,0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,"hip hop,miami hip hop,pop rap,rap",nonlatin
+104,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,"canadian pop,pop",nonlatin
+105,0VRj0yCOv2FXJNP47XQnx5,Quavo,"atl hip hop,melodic rap,rap,trap",nonlatin
+106,1anyVhU62p31KFi8MEzkbf,Chance the Rapper,"chicago rap,conscious hip hop,hip hop,pop rap,rap",nonlatin
+107,10exVja0key0uqUkk6LJRT,Vance Joy,"folk-pop,modern rock",nonlatin
+108,6fOMl44jA4Sp5b9PpYCkzz,NF,"hip hop,pop rap",nonlatin
+109,7HV2RI2qNug4EcQqLbCAKS,Keala Settle,"broadway,hollywood,show tunes",nonlatin
+110,63nv0hWWDob56Rk8GlNpN8,The Greatest Showman Ensemble,movie tunes,nonlatin
+111,0cGUm45nv7Z6M6qdXYQGTX,Kehlani,"pop,r&b,rap",nonlatin
+112,4WN5naL3ofxrVBgFpguzKo,Rudimental,"pop dance,uk dance,uk funky",nonlatin
+113,4ScCswdRlyA23odg9thgIO,Jess Glynne,"dance pop,pop,uk pop",nonlatin
+114,3JhNCzhSMTxs9WLGJJxWOY,Macklemore,"pop rap,seattle hip hop",nonlatin
+115,2U3FuHYvL3vhkbDAXm24Ep,Dan Caplen,"neo soul,uk contemporary r&b",nonlatin
+116,4Q6nIcaBED8qUel8bBx6Cr,Jax Jones,"dance pop,edm,house,pop dance,uk dance,uk pop",nonlatin
+117,7hssUdpvtY5oiARaUDgFZ3,Ina Wroldsen,norwegian pop,nonlatin
+118,7z2avKuuiMAT4XZJFv8Rvh,Tom Walker,"indie anthem-folk,uk pop",nonlatin
+119,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,pop,nonlatin
+120,3RqBeV12Tt7A8xH3zBDDUF,Kelsea Ballerini,"contemporary country,country",nonlatin
+121,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,lgbtq+ hip hop,nonlatin
+122,60rpJ9SgigSd16DOAG7GSa,Billy Ray Cyrus,country rock,nonlatin
+123,1zNqQNIdeOUZHb8zbZRFMX,Swae Lee,"melodic rap,rap,trap",nonlatin
+124,0GM7qgcRCORpGnfcN2tCiB,Tainy,"pop reggaeton,reggaeton,trap latino,urbano latino",latin
+125,47MpMsUfWtgyIIBEFOr4FE,Lunay,"reggaeton,reggaeton flow,trap latino,urbano latino",latin
+126,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,"art pop,dance pop,pop",nonlatin
+127,4VIvfOurcf0vuLRxLkGnIG,Bradley Cooper,hollywood,nonlatin
+128,2R21vXR83lH98kGeO99Y66,Anuel AA,"reggaeton,reggaeton flow,trap boricua,trap latino,urbano latino",latin
+129,790FomKkXshlbRYZFtlgla,KAROL G,"reggaeton,reggaeton colombiano,trap latino,urbano latino",latin
+130,4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,"pop,uk pop",nonlatin
+131,3vQ0GE3mI0dAaxIMYe5g7z,Paulo Londra,"argentine hip hop,trap argentino,trap latino,urbano latino",latin
+132,77ziqFxp5gaInVrF2lj4ht,Sech,"panamanian pop,reggaeton,trap latino,urbano latino",latin
+133,4QVBYiagIaa6ZGSPMbybpy,Pedro Capó,"latin pop,puerto rican pop",latin
+134,329e4yvIujISKGKz1BZZbO,Farruko,"reggaeton,trap latino,urbano latino",latin
+135,3uZFBSsMiooimnprFL9jD1,Snow,"canadian old school hip hop,reggae fusion",latin
+136,0ErzCpIMyLcjPiwT4elrtZ,NLE Choppa,"memphis hip hop,rap",nonlatin
+137,3Fl1V19tmjt57oBdxXKAjJ,Blueface,"cali rap,rap",nonlatin
+138,5UjifI1TYefXWn9GdqDOHl,Social House,none,unknown
+139,3hteYQFiMFbJY7wS0xDymP,Gesaffelstein,dark clubbing,nonlatin
+140,6Ip8FS7vWT1uKkJSweANQK,Dave,uk hip hop,nonlatin
+141,3wcj11K77LjEY1PkEazffa,Burna Boy,"afrobeats,azontobeats,dancehall,nigerian hip hop,nigerian pop",nonlatin
+142,6AgTAQt8XS6jRWi4sX7w49,Polo G,"chicago rap,rap",nonlatin
+143,6jGMq4yGs7aQzuGsMgVgZR,Lil Tjay,"brooklyn drill,melodic rap,nyc rap,rap",nonlatin
+144,2HUwZ0kumzCSlhFcjFZfpp,Flipp Dinero,"melodic rap,trap",nonlatin
+145,2wY79sveU1sp5g7SokKOiI,Sam Smith,"pop,uk pop",nonlatin
+146,6l3HvQ5sa6mXTsMTB19rO5,J. Cole,"conscious hip hop,hip hop,north carolina hip hop,rap",nonlatin
+147,4Ga1P7PMIsmqEZqhYZQgDo,Lil Tecca,"melodic rap,pluggnb,rap",nonlatin
+148,4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator","hip hop,rap",nonlatin
+149,20sxb77xiYeusSH8cVdatc,Meek Mill,"hip hop,philly rap,pop rap,rap,southern hip hop,trap",nonlatin
+150,3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,pop soul,nonlatin
+151,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,pop,nonlatin
+152,1sBkRIssrMs1AbVkOJbc7a,Rick Ross,"dirty south rap,gangster rap,hip hop,rap,southern hip hop,trap",nonlatin
+153,31W5EY0aAly4Qieq6OFu6I,A Boogie Wit da Hoodie,"melodic rap,rap,trap",nonlatin
+154,50co4Is1HCEo8bhOyUWKpn,Young Thug,"atl hip hop,atl trap,gangster rap,melodic rap,rap,trap",nonlatin
+155,46SHBwWsqBkxI7EeeBEQG7,Kodak Black,"florida drill,florida rap,melodic rap,miami hip hop,rap,trap,trap latino",latin
+156,3WGpXCj9YhhfX11TToZcXP,Troye Sivan,"australian pop,pop,viral pop",nonlatin
+157,3Nrfpe0tUJi4K4DXYWgMUX,BTS,"k-pop,k-pop boy group,pop",nonlatin
+158,0xRXCcSX89eobfrshSVdyu,MEDUZA,"edm,pop dance,pop house,uk dance",nonlatin
+159,2nm38smINjms1LtczR0Cei,Goodboys,"pop dance,uk dance",nonlatin
+160,4ofCBoyEiGSePFAG500xev,Regard,"pop dance,pop edm,slap house,uk dance",nonlatin
+161,0YinUQ50QDB7ZxSCLyQ40k,Mustard,"cali rap,pop rap,rap,southern hip hop,trap",nonlatin
+162,4r63FhuTkUYltbVAg5TQnk,DaBaby,"hip hop,north carolina hip hop,pop rap,rap,trap",nonlatin
+163,5IH6FPUwQTxPSXurCrcIov,Alec Benjamin,"alt z,pop,pov: indie",nonlatin
+164,00FQb4jTyendYWaN8pK0wa,Lana Del Rey,"art pop,pop",nonlatin
+165,6nS5roXSAGhTGr34W6n7Et,Disclosure,"edm,house,indietronica,uk dance",nonlatin
+166,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,"pop,singer-songwriter pop,uk pop",nonlatin
+167,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,"dance pop,pop",nonlatin
+168,5pDjmC5mRl7vDJhsjVwNfk,Freya Ridings,uk pop,nonlatin
+169,6cK3NBO6uP7hh0oyuVELFl,Saweetie,"cali rap,trap queen",nonlatin
+170,7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,"boy band,pop",nonlatin
+171,7k9T7lZlHjRAM1bb0r9Rm3,Wiley,"grime,uk dancehall,uk hip hop",nonlatin
+172,2ExGrw6XpbtUAJHTLtUXUD,Stefflon Don,"dancehall,dancehall queen,uk dancehall,uk hip hop",nonlatin
+173,3Isy6kedDrgPYoTS1dazA9,Sean Paul,"dance pop,dancehall,pop,pop rap",nonlatin
+174,0Dc2rdPzleezxhvQhQbXuS,Idris Elba,uk tech house,nonlatin
+175,6jJ0s89eD6GaHleKKya26X,Katy Perry,pop,nonlatin
+176,4NZvixzsSefsNiIqXn0NDe,Maggie Rogers,indie pop,nonlatin
+177,6USv9qhCn6zfxlBQIYJ9qs,Dominic Fike,"alternative pop rock,pov: indie",nonlatin
+178,41MozSoPIsD1dJM0CLPjZF,BLACKPINK,"k-pop,k-pop girl group,pop",nonlatin
+179,4f9iBmdUOhQWeP7dcAn1pf,Rag'n'Bone Man,neo soul,nonlatin
+180,4npEfmQ6YuiwW1GpUmaq3F,Ava Max,pop,nonlatin
+181,1dfeR4HaWDbWqFHLkxsg1d,Queen,"classic rock,glam rock,rock",nonlatin
+182,23fqKkggKUBHNkbKtXEls4,Kygo,"edm,pop,pop dance,tropical house",nonlatin
+183,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,pop,nonlatin
+184,6ASri4ePR7RlsvIQgWPJpS,iann dior,melodic rap,nonlatin
+185,1MIVXf74SZHmTIp4V4paH4,Mabel,"pop,uk pop",nonlatin
+186,1vCWHaC5f2uS3yhpwWbIA6,Avicii,"dance pop,edm,pop,pop dance",nonlatin
+187,0id62QV2SZZfvBn9xpmuCl,Aloe Blacc,"pop soul,r&b",nonlatin
+188,56oDRnqbIiwx4mymNEv7dS,Lizzo,"escape room,minnesota hip hop,pop,trap queen",nonlatin
+189,1bj5GrcLom5gZFF5t949Xl,Martin Solveig,"disco house,edm,electro house,filter house,house,pop dance,vocal house",nonlatin
+190,2kRfqPViCqYdSGhYSM9R0Q,Madison Beer,pop,nonlatin
+191,2NlKrNMdpYxGjt3Pvw87rC,Europa,uk dance,nonlatin
+192,31Ua7zSTJxegjyd49ujbSA,NSG,"afrobeats,afroswing,uk dancehall,uk hip hop",nonlatin
+193,7b79bQFziJFedJb75k6hFt,Tion Wayne,"london rap,uk hip hop",nonlatin
+194,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,"houston rap,pop,r&b,rap,trap queen",nonlatin
+195,2NjfBq1NflQcKSeiDooVjY,Tones And I,australian pop,nonlatin
+196,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,"black americana,contemporary country,country,country road",nonlatin
+197,6Xgp2XMz1fhVYe7i6yNAax,Trippie Redd,"melodic rap,rap,trap",nonlatin
+198,6bmlMHgSheBauioMgKv2tn,Powfu,"sad lo-fi,sad rap",nonlatin
+199,35l9BRT7MXmM8bv2WDQiyB,beabadoobee,"bedroom pop,bubblegrunge,indie pop,pov: indie",nonlatin
+200,757aE44tKEUQEqRuT6GnEB,Roddy Ricch,"melodic rap,rap,trap",nonlatin
+201,5zctI4wO9XSKS8XwcnqEHk,Lil Mosey,"melodic rap,rap conscient",nonlatin
+202,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,"brooklyn drill,rap",nonlatin
+203,6KImCVD70vtIoJWnq6nGn3,Harry Styles,pop,nonlatin
+204,0vRvGUQVUjytro0xpb26bs,Arizona Zervas,"indie pop rap,pop rap,rhode island rap",nonlatin
+205,1XLWox9w1Yvbodui0SRhUQ,StaySolidRocky,melodic rap,nonlatin
+206,7uaIm6Pw7xplS8Dy06V6pT,Trevor Daniel,melodic rap,nonlatin
+207,66W9LaWS0DPdL7Sz8iYGYe,JP Saxe,"alt z,canadian contemporary r&b,singer-songwriter pop",nonlatin
+208,6nVcHLIgY5pE2YCl8ubca1,Jhayco,"reggaeton,trap latino,urbano latino",latin
+209,4Uc8Dsxct0oMqx0P6i60ea,Conan Gray,"bedroom pop,pop,pov: indie",nonlatin
+210,6fWVd57NKTalqvmjRd2t8Z,24kGoldn,"cali rap,pop rap",nonlatin
+211,0H39MdGGX6dbnnQPt6NQkZ,SAINt JHN,"melodic rap,slap house",nonlatin
+212,5rGrDvrLOV2VV8SCFVGWlj,Imanbek,"electro house,pop dance,slap house",nonlatin
+213,4ETSs924pXMzjIeD6E9b4u,Surfaces,bedroom soul,nonlatin
+214,3hcs9uc56yIGFCSy9leWe7,Lil Durk,"chicago drill,chicago rap,drill,hip hop,rap,trap",nonlatin
+215,7MPGCB854Qo4alYMOPkBka,Ritt Momney,bedroom pop,nonlatin
+216,6MPCFvOQv5cIGfw3jODMF0,Internet Money,pop rap,nonlatin
+217,2hlmm7s2ICUX0LVIhVFlZQ,Gunna,"atl hip hop,melodic rap,rap,trap",nonlatin
+218,4Gso3d4CscCijv0lmajZWs,Don Toliver,"pop rap,rap,trap",nonlatin
+219,7rkW85dBwwrJtlHRDkJDAC,NAV,"canadian hip hop,canadian trap,melodic rap,rap,trap",nonlatin
+220,7dGJo4pcD2V6oG8kP0tJRR,Eminem,"detroit hip hop,hip hop,rap",nonlatin
+221,0Cp8WN4V8Tu4QJQwCN5Md4,BENEE,"alt z,nz pop",nonlatin
+222,6sHCvZe1PHrOAuYlwTLNH4,Gus Dapperton,"bedroom pop,indie poptimism,pov: indie",nonlatin
+223,45dkTj5sMRSjrmBSBeiHym,Tate McRae,"alt z,pop",nonlatin
+224,1lmU3giNF3CSbkVSQmLpHQ,Surf Mesa,pop edm,nonlatin
+225,4ArPQ1Opcksbbf3CPwEjWE,Emilee,social media pop,nonlatin
+226,56mfhUDKa1vec6rSLZV5Eg,Jawsh 685,nz pop,nonlatin
+227,6vWDO969PvNqNYHIOW5v0m,Beyoncé,"pop,r&b",nonlatin
+228,4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,"hip hop,melodic rap,philly rap,rage rap,rap",nonlatin
+229,2PaZWGu5T5nHjY2xxAkFsT,THE SCOTTS,viral rap,nonlatin
+230,0fA0VVWsXO9YnASrzqfmYu,Kid Cudi,"hip hop,ohio hip hop,pop rap,rap",nonlatin
+231,2LIk90788K0zvyj2JJVwkJ,Jack Harlow,"deep underground hip hop,kentucky hip hop,pop rap,rap",nonlatin
+232,2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,"canadian hip hop,canadian trap,melodic rap,pop rap,r&b,rap,trap",nonlatin
+233,55Aa2cqylxrFIXC767Z865,Lil Wayne,"hip hop,new orleans rap,pop rap,rap,trap",nonlatin
+234,0u6GtibW46tFX7koQ6uNJZ,Topic,"german dance,pop dance,pop edm,uk dance",nonlatin
+235,5Wg2b4Mp42gicxEeDNawf7,A7S,"pop dance,scandipop,uk dance",nonlatin
+236,6DgP9otnZw5z6daOntINxp,Joel Corry,"dance pop,pop dance,uk dance",nonlatin
+237,7uMh23xWiuR7zsNkuNcm2G,MNEK,"house,pop dance,uk contemporary r&b,uk dance,uk pop",nonlatin
+238,6TIYQ3jFPwQSRmorSezPxX,Machine Gun Kelly,"ohio hip hop,pop rap",nonlatin
+239,2cFrymmkijnjDg9SS92EPM,blackbear,pop,nonlatin
+240,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,"dance pop,pop,pop rap",nonlatin
+241,1OB278sOZVSFx5vXqYha83,J. Rey Soul,none,unknown
+242,55fhWPvDiMpLnE4ZzNXZyW,Noah Cyrus,"alt z,pop",nonlatin
+243,63yrD80RY3RNEM2YDpUpO8,Melanie Martinez,"alt z,electropop,pop",nonlatin
+244,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,"pop rap,r&b,rap",nonlatin
+245,7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,"latin viral pop,pop,r&b en espanol",latin
+246,2HPaUgqeutzr3jx5a9WyDV,PARTYNEXTDOOR,"r&b,rap,urban contemporary",nonlatin
+247,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,"barbadian pop,pop,urban contemporary",nonlatin
+248,4IMAo2UQchVFyPH24PAjUs,Jowell & Randy,"reggaeton,urbano latino",latin
+249,12vb80Km0Ew53ABfJOepVz,Ñengo Flow,"reggaeton,trap latino,urbano latino",latin
+250,3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,"modern rock,pop,pov: indie,rock",nonlatin
+251,5ZsFI1h6hIdQRw2ti0hz81,ZAYN,"pop,uk pop",nonlatin
+252,5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,"piano rock,pop",nonlatin
+253,3QJUFtGBGL05vo0kCJZsmT,salem ilese,"alt z,modern indie pop",nonlatin
+254,28gNT5KBp7IjEOQoevXf9N,Camilo,"colombian pop,latin pop,latin viral pop,reggaeton colombiano",latin
+255,7IlRNXHjoOCgEAWN5qYksg,Aya Nakamura,"basshall,pop urbaine,r&b francais",nonlatin
+256,0EmeFodog0BfCgMzAIvKQp,Shakira,"colombian pop,dance pop,latin pop,pop",nonlatin
+257,31TPClRtHm23RisEBtV3X7,Justin Timberlake,"dance pop,pop",nonlatin
+258,6P5NO5hzJbuOqSdyPB7SJM,Ashe,alt z,nonlatin
+259,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,pop,nonlatin
+260,4dpARuHxo51G3z768sgnrY,Adele,"british soul,pop,pop soul,uk pop",nonlatin
+261,4fxd5Ee7UefO4CUXgwJ7IP,Giveon,r&b,nonlatin
+262,20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,canadian contemporary r&b,nonlatin
+263,0lAWpj5szCSwM4rUMHYmrr,Måneskin,"indie rock italiano,italian pop",nonlatin
+264,1U1el3k54VvEUzo3ybLPlM,Kali Uchis,colombian pop,latin
+265,2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,australian hip hop,nonlatin
+266,3jK9MiCrA42lLAdMGUZpwa,Anderson .Paak,"escape room,hip hop,indie soul,neo soul",nonlatin
+267,6PvvGcCY2XtUcSRld1Wilr,Silk Sonic,neo soul,nonlatin
+268,5L1lO4eRHmJ7a0Q6csE5cT,LISA,k-pop,nonlatin
+269,1uU7g3DNSbsu0QjSEqZtEd,Masked Wolf,australian hip hop,nonlatin
+270,1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,"puerto rican pop,reggaeton,trap latino,urbano latino",latin
+271,4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,"gauze pop,indietronica,modern rock,pov: indie,shiver pop",nonlatin
+272,4gzpq5DPGxSnKTe4SA8HAU,Coldplay,"permanent wave,pop",nonlatin
+273,048LktY5zMnakWq7PTtFrz,CKay,"afro r&b,afrobeats",nonlatin
+274,26cMerAxjx9GedFt0lMDjm,Bella Poarch,modern alternative pop,nonlatin
+275,163tK9Wjr9P9DmM0AVK7lm,Lorde,"art pop,metropopolis,nz pop,pop",nonlatin
+276,4IVAbR2w4JJNJDDRFP3E83,6LACK,"atl hip hop,melodic rap,r&b,rap,trap",nonlatin
+277,7arQA31aZVS8yS6zUveWzb,CJ,nyc rap,nonlatin
+278,7iK8PXO48WeuP03g8YR51W,Myke Towers,"reggaeton,trap latino,urbano latino",latin
+279,2LmcxBak1alK1bf7d1beTr,Juhn,"reggaeton,reggaeton flow,trap latino,urbano latino",latin
+280,3eVa5w3URK5duf6eyVDbu9,ROSÉ,k-pop,nonlatin
+281,44vREmJC0OlVZjZaGLqVEd,Morray,pop rap,nonlatin
+282,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,"chicago rap,hip hop,rap",nonlatin
+283,3rWZHrfrsPBxVy692yAIxF,WILLOW,"afrofuturism,pop,post-teen pop,pov: indie",nonlatin
+284,4exLIFE8sISLr28sqG1qNX,Travis Barker,rap rock,nonlatin
+285,3PhoLpVuITZKcymswpck5b,Elton John,"glam rock,mellow gold,piano rock,rock",nonlatin
+286,6n28c9qs9hNGriNa72b26u,PNAU,"alternative dance,aussietronica,australian dance,australian electropop",nonlatin
+287,7FNnA9vBm6EKceENgCGRMb,Anitta,"funk pop,funk rj,pagode baiano,pop,pop nacional",latin
+288,3klZnJvYGIbWritVwQD434,Duncan Laurence,dutch pop,nonlatin
+289,5qa31A9HySw3T7MKWI9bGg,FLETCHER,"alt z,pop",nonlatin
+290,64H8UqGLbJFHwKtGxiV8OP,THE ANXIETY,modern alternative pop,nonlatin
+291,1xoxekeb8jUVHKJB7m6bfg,Tyler Cole,bedroom soul,nonlatin
+292,6TLwD7HPWuiOzvXEa3oCNe,Oliver Tree,alternative hip hop,nonlatin
+293,2WgfkM8S11vg4kxLgDY3F5,StarBoi3,viral rap,nonlatin
+294,3MZsBdqDrRTJihTHQrO6Dq,Joji,viral pop,nonlatin
+295,3Xt3RrJMFv5SZkCfUE8C1J,Kim Petras,"alt z,pop,transpop",nonlatin
+296,1aSxMhuvixZ8h9dK9jIDwL,Kate Bush,"art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter",nonlatin
+297,57vWImR43h4CaDao012Ofp,Steve Lacy,afrofuturism,nonlatin
+298,2VSHKHBTiXWplO8lxcnUC9,GAYLE,modern alternative pop,nonlatin
+299,37230BxxYs9ksS7OkZw3IU,Chencho Corleone,"reggaeton,reggaeton flow,trap latino,urbano latino",latin
+300,716NhGYqD1jl2wI1Qkgq36,Bizarrap,"argentine hip hop,pop venezolano,trap argentino,trap latino,urbano latino",latin
+301,52iwsT98xCoGgiGntTiR7K,Quevedo,"rap canario,trap latino,urbano latino",latin
+302,2W8yFh0Ga6Yf3jiayVxwkE,Dove Cameron,pop,nonlatin
+303,6HaGTQPmzraVmaVxvz6EUc,Jung Kook,k-pop,nonlatin
+304,67MNhiAICFY6Pwc2YxCO0K,Elley Duhé,alt z,nonlatin
+305,2feDdbD5araYcm6JhFHHw7,Labrinth,"indie poptimism,pop",nonlatin
+306,7f5Zgnp2spUuuzKplmRkt7,Lost Frequencies,"belgian edm,edm,pop dance,tropical house",nonlatin
+307,6ydoSd3N2mwgwBHtF6K7eX,Calum Scott,pop,nonlatin
+308,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,"modern rock,pop,rock",nonlatin
+309,6U3ybJ9UHNKEdsH7ktGBZ7,JID,"hip hop,pop rap,rap,underground hip hop",nonlatin
+310,57nPqD7z62gDdq37US9XJR,Arcane,none,unknown
+311,47mIJdHORyRerp4os813jD,League of Legends,"speedrun,video game music",nonlatin
+312,29PgYEggDV3cDP9QYTogwv,Carolina Gaitán - La Gaita,movie tunes,nonlatin
+313,36CUTsdtNgCwMq6zKD1l8I,Mauro Castillo,"modern salsa,movie tunes,salsa colombiana",latin
+314,72kqSqk124Vnl1wtT6q9Fh,Adassa,movie tunes,nonlatin
+315,2as15AH2BTrPk8v4gyElmr,Rhenzy Feliz,none,unknown
+316,18MFcGBHtyW0mU3ufcm0X1,Diane Guerrero,movie tunes,nonlatin
+317,5PYToRCsrnvikZg3yl2JMr,Stephanie Beatriz,"hollywood,movie tunes",nonlatin
+318,3xLU748QxpTmIVaiNXXg0P,Encanto - Cast,movie tunes,nonlatin
+319,1QfpRUtH14JLoY6F6AYmwt,The Rare Occasions,la indie,latin
+320,687cZJR45JO7jhk1LHIbgq,Tems,"afro r&b,alte,nigerian pop",nonlatin
+321,6QrQ7OrISRYIfS5mtacaw2,Jaymes Young,indie poptimism,nonlatin
+322,79AyR6ATpj2LTPxfb6FX50,Lauren Spencer Smith,"alt z,gen z singer-songwriter",nonlatin
+323,5FxD8fkQZ6KcsSYupDVoSO,Omar Apollo,"bedroom pop,bedroom soul",nonlatin
+324,1Yj5Xey7kTwvZla8sqdsdE,Cris Mj,"mambo chileno,urbano chileno",latin
+325,7qmpXeNz2ojlMl2EEfkeLs,Nicky Youre,singer-songwriter pop,nonlatin
+326,38PzLQE4GW8o7A18oGhi0x,dazy,none,unknown
+327,5n9bMYfz9qss2VOW89EVs2,Bomba Estéreo,"cumbia,latin alternative,latin rock,pop electronico,tropical alternativo",latin
+328,26dSoYclwsYLMAKD3tpOr4,Britney Spears,"dance pop,pop",nonlatin
+329,46pWGuE3dSwY3bMMXGBvVS,Rema,"afrobeats,nigerian pop",nonlatin
+330,46xBNx0j6cwY6sD9LgMTm1,Rosa Linn,alt z,nonlatin
+331,5XKFrudbV4IiuE5WuTPRmT,Stephen Sanchez,gen z singer-songwriter,nonlatin
+332,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,"hip pop,pop",nonlatin
+333,4qXC0i02bSFstECuXP2ZpL,Blxst,"pop rap,westcoast flow",nonlatin
+334,1PpDfXOUG7gxUjR1quWnwp,Amanda Reifer,barbadian pop,nonlatin
+335,3MdXrJWsbVzdn6fe5JYkSQ,Latto,trap queen,nonlatin
+336,5H4yInM5zmHqpKIoMNAx4r,Central Cee,melodic drill,nonlatin
+337,5rSXSAkZ67PYJSvpUpkOr7,Backstreet Boys,"boy band,dance pop,pop",nonlatin
+338,6dn6x1XOng3LOAnfTjUn77,AJ Mitchell,"alt z,pop",nonlatin
+339,6O74knDqdv3XaWtkII7Xjp,Boyz II Men,"boy band,contemporary r&b,new jack swing,r&b,urban contemporary",nonlatin
+340,6wwj6pIJdMJJyDQsQVtPzR,Jess and Gabriel,social media pop,nonlatin
+341,57WHJIHrjOE3iAxpihhMnp,Louis Tomlinson,pop,nonlatin
+342,3iri9nBFs9e4wN7PLIetAw,gnash,"alt z,pop",nonlatin
+343,6xvpfMjWTougrRRtK7iikz,Mason Ramsey,"contemporary country,country",nonlatin
+344,20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,"modern rock,pop",nonlatin
+345,28y6CyJNkGNjJQKrlx4AmN,HRVY,pop,nonlatin
+346,4AK6F7OLvEQ5QYCBNiQWHq,One Direction,"boy band,pop,post-teen pop,talent show",nonlatin
+347,0fiWOxhsBsQQvFDtxUQWo0,Brett Young,"contemporary country,country,country road,modern country rock",nonlatin
+348,3FfbgiZhcCkoiI7IzOwXlI,Ben Abraham,indie anthem-folk,latin
+349,4Rxn7Im3LGfyRkY2FlHhWi,Nick Jonas,"dance pop,pop",nonlatin
+350,6DIS6PRrLS3wbnZsf7vYic,WALK THE MOON,"dance rock,modern alternative rock,modern rock,neo mellow,pop rock",nonlatin
+351,1QRj3hoop9Mv5VvHQkwPEp,Olivia O'Brien,"alt z,pop",nonlatin
+352,6T5tfhQCknKG4UnH90qGnz,DNCE,"dance pop,pop",nonlatin
+353,2NhdGz9EDv2FeUw6udu2g1,The Wanted,"boy band,dance pop,pop,post-teen pop",nonlatin
+354,1ovPxptMcDubQ0CgYsS5hm,Grupo Legitimo,"corrido,musica mexicana,musica potosina,norteno,norteno-sax,sierreno",latin
+355,5kuxm06ltfO1Rj9j5UQewf,Los Tigrillos,"banda,cumbia sonorense,musica costena,musica mexicana,norteno,tejano",latin
+356,4aN7T7NNFFMRJgVbRPne8q,Bohnes,"dark r&b,rebel blues",nonlatin
+357,1INuLZXjjVbcJRyWvD1iSq,Jack & Jack,"pop,teen pop",nonlatin
+358,58MLl9nC29IXbE4nEtuoP2,Alex & Sierra,"pop,post-teen pop",nonlatin
+359,7dQoFvAqR6Zd414icQaatx,Combo Latin,none,unknown
+360,7jZMxhsB8djyIbYmoiJSTs,Kiana Ledé,"pop r&b,r&b",nonlatin
+361,7LImGq5KnzQobZciDJpeJb,Charlotte Lawrence,alt z,nonlatin
+362,4IWBUUAFIplrNtaOHcJPRM,James Arthur,"pop,talent show,uk pop",nonlatin
+363,2WzaAvm2bBCf4pEhyuDgCY,Ruth B.,"alt z,canadian contemporary r&b,canadian pop,pop",nonlatin
+364,1l8Fu6IkuTP0U5QetQJ5Xt,Fifth Harmony,"girl group,pop,talent show",nonlatin
+365,2yqDP1QmMX6jOXgqCtNnST,Dae,none,unknown
+366,1844rVKItCnHIGFNMNq2BF,Wes,none,unknown
+367,61i5hkPM85ZcIxRsg61Hkl,Kendyle Paige,dark r&b,nonlatin
+368,1KCSPY1glIKqW2TotWuXOR,P!nk,"dance pop,pop",nonlatin
+369,58GNHTqgNesANvRuoKzCwX,Malu Trevejo,none,unknown
+370,1ef7Y06MRVT7HfRdJDHBOG,Brad & Rebekah,"pop worship,worship",nonlatin
+371,3gIRvgZssIb9aiirIg0nI3,Jeremy Zucker,"alt z,electropop,pop",nonlatin
+372,5Y8eJDj37KhaEeqbVO7Ag1,PRETTYMUCH,"boy band,post-teen pop,teen pop",nonlatin
+373,2AsusXITU8P25dlRNhcAbG,Gotye,australian pop,nonlatin
+374,6hk7Yq1DU9QcCCrz9uc0Ti,Kimbra,"bergen indie,electropop,nz pop",nonlatin
+375,1Hsdzj7Dlq2I7tHP7501T4,Niall Horan,pop,nonlatin
+376,5vBSrE1xujD2FXYRarbAXc,Years & Years,"dance pop,gauze pop,pop,pop dance,uk pop",nonlatin
+377,3Y7RZ31TRPVadSFVy1o8os,H.E.R.,"r&b,rap",nonlatin
+378,7zkwepHPyac6tCYl0fL0co,ASTN,bedroom soul,nonlatin
+379,6dJeKm76NjfXBNTpHmOhfO,Selena Gomez & The Scene,pop,nonlatin
+380,2g6nfqSFo2cPVrafnW85jm,Andreas Moss,scandipop,nonlatin
+381,0uioawxHyc6pgvbUCq510I,Melanie Pfirrman,none,unknown
+382,3JKrNnhjEv9h3fyKhQpylb,Aidan Martin,uk pop,nonlatin
+383,4MB9CqgEa0TtpVSEkoSlW1,Blake McGrath,canadian pop,nonlatin
+384,7wFDo161xYdeaiLz3KIHoM,Gallant,alternative r&b,nonlatin
+385,59mjRp0i1B8oWSSMmGWJlJ,Ansel Elgort,"post-teen pop,teen pop",nonlatin
+386,40LHVA5BTQp9RxHOQ9JPYj,Lauren Daigle,"ccm,christian alternative rock,christian music",nonlatin
+387,2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,"canadian contemporary r&b,canadian pop,pop",nonlatin
+388,6eYFryfcEu3QSq59D62wZQ,Brendon Urie,none,unknown
+389,5F1aoppMtU3OMiltO8ymJ2,Hugh Jackman,"hollywood,show tunes",nonlatin
+390,4HLVASaI7mpSxzIGZSRJVa,Roadtrip,"social media pop,teen pop",nonlatin
+391,5NhgsV7qPWHZqYEMKzbYvo,Faouzia,"alt z,canadian pop",nonlatin
+392,6jEiUoyyJNPHzSR0Nib6HX,Walk off the Earth,"canadian rock,pop rock",nonlatin
+393,0B3N0ZINFWvizfa8bKiz4v,James TW,"british singer-songwriter,uk pop",nonlatin
+394,0LyOADBjj28cbvJWTXUEGA,Loren Allred,"deep talent show,hollywood,movie tunes",nonlatin
+395,4K9aclpXgCPNFGEqRlFPal,Peter Manos,none,unknown
+396,0PFtn5NtBbbUNbU9EAmIWF,TOTO,"album rock,classic rock,hard rock,mellow gold,rock,soft rock,yacht rock",nonlatin
+397,5JMLG56F1X5mFmWNmS0iAp,Chelsea Cutler,alt z,nonlatin
+398,4phGZZrJZRo4ElhRtViYdl,Jason Mraz,"acoustic pop,dance pop,neo mellow,pop",nonlatin
+399,5xkAtLTf309LAGZTbvULBn,Ruel,"alt z,australian alternative pop,pop",nonlatin
+400,5fywYLnKJi950Y5yMqavxm,Etham,singer-songwriter pop,nonlatin
+401,3KedxarmBCyFBevnqQHy3P,Jessie Reyez,"canadian contemporary r&b,canadian pop",nonlatin
+402,0x3PXj1WnuW7YsBxQK57xM,Ruben,norwegian pop,nonlatin
+403,7gHscNMDI8FF8pcgrV8eIn,Matt Maeson,pov: indie,nonlatin
+404,2nJYGgfTf2846LtVB3AES8,Plested,"indie anthem-folk,singer-songwriter pop",nonlatin
+405,6AcOTCYBMvjKYy4zms0kaC,Banda El Recodo,"banda,banda sinaloense,musica mexicana,norteno",latin
+406,2C6i0I5RiGzDKN9IAF8reh,Banda MS de Sergio Lizárraga,"banda,musica mexicana,norteno",latin
+407,5D3muNJhYYunbRkh3FKgX0,Chord Overstreet,acoustic pop,nonlatin
+408,5L6QAKAkdJIPLsNbItZ2KF,El Trono de Mexico,"banda,duranguense,grupera,musica mexicana,norteno",latin
+409,4bPiOPI4V99cepEftvBYak,Banda Los Recoditos,"banda,musica mexicana,norteno",latin
+410,4hwbEkmTTgBuc7sYVKA5PN,Ben Lawrence,none,unknown
+411,5j9R5dTGerKvdXopZnfJh9,Ramon Ayala Y Sus Bravos Del Norte,"musica mexicana,norteno",latin
+412,4LFOoXhMhnq9U8VsZkSwxl,Edwin Luna y La Trakalosa de Monterrey,"banda,musica mexicana,norteno,sad sierreno",latin
+413,543ccHFPnZfJMD8tRGPtu7,James Smith,uk pop,nonlatin
+414,2aZtzjAzD8fq3OhZ9egqda,Alacranes Musical,"duranguense,musica mexicana",latin
+415,0UWZUmn7sybxMCqrw9tGa7,Juanes,"colombian pop,latin pop,mexican pop,rock en espanol",latin
+416,3hYtANQYrE6pd2PbtEyTIy,Los Tigres Del Norte,"banda,musica mexicana,norteno,ranchera",latin
+417,4EzkuveR9pLvDVFNx6foYD,James Bay,"neo mellow,pop,uk pop",nonlatin
+418,2gRP1Ezbtj3qrERnd0XasU,Camila,"latin arena pop,latin pop",latin
+419,3smfreCkyJt7bShaTYpG77,Carlos Baute,"latin pop,spanish pop",latin
+420,368rTiMKMrz3b03az6B14w,Marta Sánchez,"latin pop,spanish pop",latin
+421,5C4PDR4LnhZTbVnKWXuDKD,Morat,"colombian pop,latin viral pop",latin
+422,7plUpXSFcSJUZSiZAoXqr1,Ximena Sariñana,"cantautora mexicana,latin alternative,latin pop,mexican pop,mexican rock",latin
+423,77aLk6J8ofnVxa1eXK9jiU,Matisse,"latin arena pop,mexican pop",latin
+424,1mX1TWKpNxDSAH16LgDfiR,Jesse & Joy,"latin arena pop,latin pop,mexican pop",latin
+425,3rs3EOlJ8jyPpdGiQ9Mhub,Monchy & Alexandra,"bachata,bachata dominicana,tropical",nonlatin
+426,6IE6z7DcZIT4Ml3Fh5Ivch,Selena,"mexican pop,tejano",latin
+427,5M9Bb4adKAgrOFOhc05Y50,Pablo Alborán,"latin arena pop,latin pop,spanish pop",latin
+428,4ebKlOJFmoNuBQLKSEGDuH,Isaac Waddington,"pop soul,uk contemporary r&b",nonlatin
+429,4Kp21tQEUB0PHgNV3B86ah,Mahogany,none,unknown
+430,4T2k9bgIoC8bbqjqiEl9vZ,Rhys Lewis,uk pop,nonlatin
+431,23xulTZL2CvclAu5Q1eMaN,Sophia James,none,unknown
+432,0XK6kT7xcZAlcYrNjOgzJe,Carla Morrison,"cantautora mexicana,mexican pop",latin
+433,1jIeEiC6KkryFux23ekWmQ,Ale Zéguer,mexican pop,latin
+434,07YUOmWljBTXwIseAUd9TW,Sebastian Yatra,"colombian pop,latin pop,reggaeton,reggaeton colombiano,urbano latino",latin
+435,7xeM7V59cA1X8GKyKKQV87,Sin Bandera,"latin arena pop,latin pop,mexican pop",latin
+436,3YbOSxo85kla7RID8ugnW3,Los Temerarios,"grupera,musica mexicana,ranchera",latin
+437,2ghByd8ucnRTWceSAnAZ0G,La Original Banda El Limón de Salvador Lizárraga,"banda,musica mexicana,norteno",latin
+438,24dYJ8P3YuFihvMcElFUWh,Pedro Fernández,"mariachi,ranchera",latin
+439,4kYGAK2zu9EAomwj3hXkXy,JP Cooper,uk pop,nonlatin
+440,7eLcDZDYHXZCebtQmVFL25,Aitana,"latin talent show,latin viral pop,spanish pop",latin
+441,4PPoI9LuYeFX8V674Z1R6l,Vicente Fernández,"mariachi,ranchera",latin
+442,1qto4hHid1P71emI6Fd8xi,Aventura,"bachata,bachata dominicana,latin hip hop,latin pop,tropical,urbano latino",latin
+443,7j6DKwmjbxvpQO8h914uEz,Ryan Castro,"reggaeton,trap colombiano,trap latino,urbano latino",latin
+444,2oQX8QiMXOyuqbcZEFsZfm,El Alfa,"dembow,rap dominicano,reggaeton,trap latino,urbano latino",latin
+445,48R2gYdPKtfnfKAzhSVPUx,Migrantes,cumbia pop,latin
+446,7n3wAgh1j3RRbxYzfZTQDF,Alico,none,unknown
+447,1TA5sGRlKUJXBN4ZyJuDIX,Blessd,"reggaeton,urbano latino",latin
+448,14zUHaJZo1mnYtn6IBRaRP,Justin Quiles,"reggaeton,trap latino,urbano latino",latin
+449,1pQWsZQehhS4wavwh7Fnxd,Lenny Tavárez,"reggaeton,trap argentino,trap latino,urbano latino",latin
+450,2wkoKEfS6dXwThbyTnZWFU,Mau y Ricky,"latin pop,pop venezolano,reggaeton,urbano latino",latin
+451,1DxLCyH42yaHKGK3cl5bvG,Maria Becerra,pop argentino,latin
+452,4EEZg8R3dxbTCCQ1DVWtHg,Bobby Pulido,"banda,grupera,musica mexicana,norteno,tejano",latin
+453,3MHaV05u0io8fQbZ2XPtlC,Prince Royce,"bachata,latin hip hop,latin pop,urbano latino",latin
+454,0eecdvMrqBftK0M1VKhaF4,CNCO,"boy band,latin pop,reggaeton,urbano latino",latin
+455,7a0XAaPaK2aDSqa8p3QnC7,Beéle,"reggaeton colombiano,trap latino,urbano latino",latin
+456,2T1aUibqR2QC2sINIDQOAK,Mambo Kingz,"reggaeton,reggaeton flow,trap latino,urbano latino",latin
+457,64aJYyrXljOodnUG6jvhRD,DJ Luian,"reggaeton,reggaeton flow,trap latino,urbano latino",latin
+458,0l8RtvcBMjeOqfgRSVo2d6,Grupo 5,cumbia peruana,latin
+459,37BIBvfliXJpSgn10yQUJM,Mr. Naisgai,none,unknown
+460,2QWIScpFDNxmS6ZEMIUvgm,Julieta Venegas,"cantautora mexicana,latin alternative,latin pop,latin rock,rock en espanol",latin
+461,5bSfBBCxY8QAk4Pifveisz,La Arrolladora Banda El Limón De Rene Camacho,"banda,musica mexicana,norteno",latin
+462,3bvfu2KAve4lPHrhEFDZna,Lola Indigo,"latin viral pop,spanish pop",latin
+463,7vXDAI8JwjW531ouMGbfcp,TINI,"latin pop,latin viral pop,pop argentino",latin
+464,5LeiVcEnsZcwc133TUhJNW,Belinda,"latin arena pop,latin pop,mexican pop",latin
+465,4vhNDa5ycK0ST968ek7kRr,Carlos Vives,"colombian pop,latin pop,vallenato",latin
+466,0XwVARXT135rw8lyw1EeWP,Christian Nodal,"mariachi,musica mexicana,ranchera",latin
+467,5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,"bachata,latin hip hop,latin pop,urbano latino",latin
+468,0KPX4Ucy9dk82uj4GpKesn,Dalex,"r&b en espanol,reggaeton,trap latino,urbano latino",latin
+469,3fZk3Gm5dN5v5yfYMQ04Bx,Dímelo Flow,"reggaeton,reggaeton flow,urbano latino",latin
+470,0ZwjmGhps2YvUMzB7ihFV8,Adrian Bello,peruvian indie,latin
+471,33ScadVnbm2X8kkUqOkC6Z,Don Omar,"latin hip hop,puerto rican pop,reggaeton,trap latino,urbano latino",latin
+472,62YF0FglEltB3CnVIjoko8,Ingratax,"concurso de talentos argentino,latin viral pop,urbano mexicano",latin
+473,43qxAkuKFB6fMNSeS5dO7Z,Ana Bárbara,"grupera,mexican pop,musica mexicana",latin
+474,7slfeZO9LsJbWgpkIoXBUJ,Ricky Martin,"latin pop,mexican pop,puerto rican pop",latin
+475,7pbDxGE6nQSZVfiFdq9lOL,Rex Orange County,"bedroom pop,pov: indie",nonlatin
+476,21451j1KhjAiaYKflxBjr1,Zion & Lennox,"reggaeton,urbano latino",latin
+477,3LKXWvXFWrkwUzJWxzwVpW,Tony Dize,"reggaeton,urbano latino",latin
+478,0MoaBi6dSquXp6rrlqlF8R,Buscabulla,"latintronica,puerto rican indie",latin
+479,2jSGzJw0ebJLu7OLVSOcBP,Plan B,"reggaeton,trap latino,urbano latino",latin
